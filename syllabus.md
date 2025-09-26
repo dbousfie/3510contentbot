@@ -1,645 +1,287 @@
-The University of Western Ontario
+**3510-200 -- Decolonizing Politics**
 
-Department of Political Science
+## Land Acknowledgement
 
-Political Science 1026: Political Power and Participation
+Western University is situated on the traditional territories of the
+Anishinaabeg, Haudenosaunee, Lunaapeewak and Attawandaron peoples, who
+have longstanding relationships to the land and region of southwestern
+Ontario and the City of London. The local First Nation communities of
+this area include Chippewas of the Thames First Nation, Oneida Nation of
+the Thames, and Munsee Delaware Nation. In the region, there are eleven
+First Nation communities and a growing Indigenous urban population.
+Western values the significant historical and contemporary contributions
+of local and regional First Nations and all of the Original peoples of
+Turtle Island (North America).
+
+## Calls to action:
+
+- Read the Truth and Reconciliation Commission findings and the
+  Commission\'s calls to action, then find a way you can support the
+  fulfillment of [those calls to
+  action](http://www.trc.ca/about-us/trc-findings.html)
+
+- Read the national inquiry into [missing and murdered indigenous women
+  and girls and the 231 calls for
+  justice](https://www.mmiwg-ffada.ca/final-report/)
+
+- Take time to learn more about the history and continuing experiences
+  of indigenous peoples
+
+- Remove colonial monuments
+
+- Call on institutions to decolonize indigenous scholarship and
+  knowledge systems continued to be marginalized and erased
+
+- Encourage contribution to indigenous led organisations, in particular,
+  the Indian Residential School Survival Society <https://irsss.ca>
 
   -----------------------------------------------------------------------
-  **Course Title:**    Political Science 1026: Political Power and
-                       Participation
-  -------------------- --------------------------------------------------
-  **Day(s):**          Tuesdays and Thursdays
+  **Course      Decolonizing Politics
+  Title:**      
+  ------------- ---------------------------------------------------------
+  **Location    Check your timetable
+  and time:**   
 
-  **Instructor(s):**   Prof Dan Bousfield
-
-  **Course             Prof Nig Narain <nnarain@uwo.ca>
-  Coordinator**        
-
-  **Office Hours:**    Wednesday 11:00am-1:00pm via zoom - link in
-                       Brightspace
-
-  **Email:**           <dbousfie@uwo.ca>
-
-  **Telephone:**       289-620-6665 text only number
-
-  **Lecture location** See your timetable
   -----------------------------------------------------------------------
 
-  Students - Please note that the academic calendar has not been updated. Therefore, the antirequisites to Political Science 1025F/G and Political Science 1026F/G are: Political Science 1020E, Political Science 1021F/G and Political Science 1022F/G.
+  -------------------------------------------------------------------------
+  **Instructor**   Dan Bousfield
+  ---------------- --------------------------------------------------------
+  **Office Hours** Wednesday 11:00am-01:00pm via zoom - link in Brightspace
 
-## Course description: what is this course about?
+  **Lectures**     See your timetable
 
-What is politics?
+  **Email:**       dbousfie@uwo.ca
 
-Who has political power and why?
+  **Text only      289-620-6665
+  phone**          
 
-Who gets to speak and what happens when they are not heard?
+  Optional         
+  Facebook group   
 
-What are the different ways to set up political systems and government?
+  **Zoom**         Available through the sidebar in Brightspace
+  -------------------------------------------------------------------------
 
-What is democracy and is it the best political system?
+## Prerequisite(s):
 
-What do ideas like capitalism, socialism, equality or freedom mean in
-politics?
-
-How must politics transform to address reconciliation, racism, gender,
-sexualities, ableism, settler colonialism, and fundamentalism and their
-impact on everyday life?
-
-Why do people and states fight each other?
-
-Should international rules govern the Internet, pandemic responses,
-refugee policies, or Indigenous-settler treaties?
-
-Should the environment be a political priority and why is it not?
-
-Together, we will consider what politics is, worldviews which explain
-our political world, the different political systems and institutions,
-and important global issues.
-
-We provide an exciting opportunity to understand and challenge political
-ideas; discuss varied and critical political issues; learn reading,
-discussion & writing skills; and understand our world.
-
-We look forward to having YOU in our class and pursuing a journey of
-learning!
-
-## Course objectives: what will you learn about in this course?
-
-(1) We start with learning about some key concepts. From there, we focus
-    primarily on global politics, including discussion about war,
-    international economies, issues related to the environment and
-    pandemics. In the second term, we will consider ideas, arguments,
-    theories, and ideologies produced in the history of political
-    thought in the West, including power, democracy, freedom, justice,
-    liberalism, conservatism, socialism, feminism, and ecologism.
-
-(2) Students will develop the capacity to think about politics
-    analytically and critically. In particular, they will acquire and
-    strengthen their abilities to: understand and analyze arguments in
-    political texts; connect and assess them in light of current
-    political debates; and, defend clear positions on potentially
-    controversial political issues, such as the obligation to obey the
-    law, the nature of justice, the legitimacy of democracy, the nature
-    of a free society, the status of the dominant ideologies of our
-    time, the value of political participation, and the role of global
-    organization in the modern world.
-
-(3) Students will achieve objectives for (1) by engaging in
-    lecture-class discussions, watching video lectures, and doing
-    readings from the textbook. Students will achieve objective (2) by
-    completing a research and outline assignment for the essay, writing
-    an argumentative essay, participating in discussions, and completing
-    a test and an exam throughout the semester. The discussions and
-    writing assignments, along with your reading and lecture attendance,
-    will provide the practice needed to succeed in the tests and exams.
-
-## Important dates
-
-- Sept 4 -- First day of classes
-
-- Sept 12 -- Last day to add full course or 1st term half course
-
-- Sept 30 -- No classes (National Day for Truth and Reconciliation)
-
-- Oct 19 -- Midterm Test - 6-7PM in Brightspace (online)
-
-- Nov 1 -- Nov 9 -- Fall Reading Week
-
-- Dec 9 -- Last day of classes
-
-- Dec 11 to 22 -- Exam Period - do not book travel plans, etc., until
-  the final schedule is posted
-
-## Course texts: what must you read
-
-Note: UWO Bookstore sells physical and electronic copies, so please
-visit the Bookstore's website for the eBooks options to purchase the
-eBook.
-
-We are using the editions listed below so if you use older or other
-editions, please note you are still responsible for the materials in the
-edition we have listed below.
-
-Brodie, M. Janine, Sandra Rein, and Malinda S. Smith. 2022. *Critical
-Concepts: an Introduction to Politics*. **Sixth edition.** Toronto:
-Oxford University Press.
-
-<https://bookstore.uwo.ca/textbook-search?campus=UWO&term=W2025A&courses%5B0%5D=001_UW/POL1026F>
-
-## Learning outcomes: what is this course teaching you?
-
-+-----------------+----------------------------------------------------+
-| Assignment      | Learning outcomes                                  |
-+=================+====================================================+
-| Participation   | - Recognize the importance of engaging colleagues' |
-|                 |   ideas                                            |
-|                 |                                                    |
-|                 | - Communicate verbally in an analytic and clear    |
-|                 |   fashion                                          |
-|                 |                                                    |
-|                 | - An awareness of the extent and limits of one's   |
-|                 |   own knowledge, informed by exposure to           |
-|                 |   information, concepts, theories and experience   |
-+-----------------+----------------------------------------------------+
-| Essays          | - Organizational skills that contribute to         |
-|                 |   scholarly and personal independence              |
-|                 |                                                    |
-|                 | - Well-developed research skills, such as those    |
-|                 |   articulated by the Political Science Research    |
-|                 |   Competency Guidelines adopted by the Association |
-|                 |   of College and Research Libraries                |
-|                 |                                                    |
-|                 | - Communicate in written format in an analytic and |
-|                 |   clear fashion                                    |
-|                 |                                                    |
-|                 | - Situate knowledge historically and contextually  |
-|                 |                                                    |
-|                 | - Assess evidence critically                       |
-|                 |                                                    |
-|                 | - Ethical dimensions of problem identification and |
-|                 |   methodology                                      |
-+-----------------+----------------------------------------------------+
-| Lectures and    | - Knowledge of diverse theories and approaches     |
-| Tests and Exams |                                                    |
-|                 | - Understanding of methods; knowledge of           |
-|                 |   epistemological approaches and ontological       |
-|                 |   diversity                                        |
-|                 |                                                    |
-|                 | - Communicate in written format in an analytic and |
-|                 |   clear fashion                                    |
-|                 |                                                    |
-|                 | - Situate knowledge historically and contextually  |
-|                 |                                                    |
-|                 | - Assess evidence critically                       |
-|                 |                                                    |
-|                 | - How power, culture, and history condition        |
-|                 |   knowledge formation                              |
-|                 |                                                    |
-|                 | - Understand the ambiguity, uncertainty,           |
-|                 |   ubiquitous and controversial nature of politics  |
-+-----------------+----------------------------------------------------+
-
-## Methods of Evaluation
+Unless you have either the requisites for this course or written special
+permission from your Dean to enroll in it, you may be removed from this
+course and it will be deleted from your record. This decision may not be
+appealed. You will receive no adjustment to your fees if you are dropped
+from a course for failing to have the necessary prerequisites.
 
 ## 
 
-  -----------------------------------------------------------------------
-  You will be evaluated as follows:   
-  ----------------------------------- -----------------------------------
-  Essay Bibliography and Outline      10%
+# Introduction: 
 
-  Mid-Term Test - online              20%
+This course traces the colonial lineage of political science and
+political studies through a decolonial reading of key texts. With an
+emphasis on the role of the academy in imperialism, racism, settler
+colonialism and hierarchies of intersectionality, this course examines
+the subfields of political science and forms of decolonial mobilization.
+Topics range from the ongoing practices of settler colonialism to the
+role of affect and race in humanitarianism, as well as strategies and
+practices of activism, the logics of terrorism and queer approaches to
+Eurocentric politics.
+
+## Learning Objectives:
+
+Through this course all students will have the opportunity to:
+
+- Discuss different approaches to decolonizing current affairs in world
+  politics
+
+- Describe the key events, changes over time and the current state of
+  current affairs in world politics in the context of decolonization
+
+- Think critically and write about an issue in current affairs through a
+  decolonial framework
+
+- Discuss a current affair in world politics in historical and
+  decolonial context
+
+Anti-requisites: Former International Relations 2701/2702, IR 2704
+
+Prerequisites: Political Science 1020E
+
+## Course Materials
+
+Shilliam, Robbie. *Decolonizing Politics: An Introduction*. John Wiley &
+Sons, 2021. and
+
+McGlinehey, Stephen (ed.) 2017. *International Relations* (Bristol:
+E-International relations publishing)
+https://www.e-ir.info/publication/beginners-textbook-international-relations/
+
+All other readings are freely available on-line, on the university
+online library reserve, or through the library search.
+
+# Methods of Evaluation
+
++-------------------------------------------------------------------------------------+
+| Weekly participation 20%                                                            |
++===============================================+=====================================+
+| Term Assignment 15% - Primarily due the end   | Essay 40% - Due the end of Week     |
+| of week 7                                     | 10 - March 24th, 2025               |
+|                                               |                                     |
+| Signup by the end of week 3                   |                                     |
+|                                               |                                     |
+| - Always requires formal academic             |                                     |
+|   accommodation for rescheduling              |                                     |
++-----------------------------------------------+-------------------------------------+
+| Final Exam 25%                                |                                     |
++-----------------------------------------------+-------------------------------------+
 
-  Essay                               30%
+## For all written exercises in this course: 
 
-  Final Exam -- in person             40%
-  -----------------------------------------------------------------------
+## Paragraph structure 
 
-**Necessary conditions for passing this course or receiving your earned
-grade:** you must write the December Exam (not necessarily pass them),
-and submit the Essay for the course (not necessarily earn a passing
-grade on the Essay, but your Essay must be assessed as minimally
-acceptable effort to complete a proper essay). If you do not meet the
-aforementioned conditions, then you will receive a failing grade (not
-your earned grade based on completed assignments) for the course and not
-receive credit for this course. Contact Nig Narain (nnarain@uwo.ca) if
-you have any questions.
+Basic paragraph structure is an important part of writing. Failure to
+use basic paragraph structure will result in repetitive, unstructured,
+illogical arguments. Paragraphs help to structure our thought, our
+ability to make claims and provide a framework for writing. The topic
+sentence and concluding sentence of each paragraph should be in your own
+voice (no direct references, quotations or citations). A basic paragraph
+structure should follow this template:
 
-## Attendance Bonus (5% on Essay)
+- Topic/introduction, in one or two sentences and has an argumentative
+  sentence that avoids description, and has a clear political thesis
 
-Students will receive a 0.625% bonus on their essay grade for every
-**Thursday** class attended (attendance must be recorded through the
-Microsoft form each week during class time). There is no attendance for
-the Tuesday class. There is a maximum of 8 classes considered to earn
-the full 5% bonus. You can check your participation through the link in
-Brightspace weekly. You cannot receive more than 100% on the essay.
+- Major point with factual evidence, one or two sentences (one sentence
+  with ***relevant*** academic citation and one sentence explaining the
+  relevance in your own words, demonstrating individual voice and
+  reflection)
 
-## OWL Brightspace website: why should I check this regularly?
+- Major point with factual evidence, one or two sentences (one sentence
+  with ***relevant*** academic citation and one sentence explaining the
+  relevance in your own words, demonstrating individual voice and
+  reflection)
 
-To enter our OWL website, go to https://westernu.brightspace.com/ to
-look for your "POLISCI 1026" tab. On this website, you will find
-information about the class, grades, links to other resources, and more.
-Lecture Videos, non-textbook readings, etc., will be posted on the OWL
-site. All course announcements, etc., will come from the OWL site.
-Please do check the OWL site regularly and constantly. Do not turn off
-notifications for announcements, students are responsible for all
-notifications from this course.
+- Major point with factual evidence, one or two sentences (one sentence
+  with ***relevant*** academic citation and one sentence explaining the
+  relevance in your own words, demonstrating individual voice and
+  reflection)
 
-"All course material will be posted to OWL Brightspace:
-https://westernu.brightspace.com/. If students need assistance with OWL
-Brightspace, they can seek support on the OWL Brightspace Help
-https://wts.uwo.ca/helpdesk page. Alternatively, they can contact the
-Western Technology Services Helpdesk https://wts.uwo.ca/helpdesk online
-or by phone at 519-661-3800 or ext. 83800 for technical support. Current
-versions of all popular browsers (e.g., Safari, Chrome, Edge, Firefox)
-are supported with OWL Brightspace; what is most important is that you
-update your browser frequently to ensure it is current. All JavaScript
-and cookies should be enabled." (UWO guidance to students)
+- Summarizing sentence of overall significance to the overarching thesis
+  of the paper and
 
-Note that the latest, most-up-to-date information is posted on the OWL
-site, so though dates, evaluations, policies, etc., are stated in this
-Course Outline, **it is your responsibility to check the OWL site** for
-updated and most current information.
+- Concluding sentence which restates topic sentence and bridges to next
+  paragraph.
 
-## Schedule of Lectures and Assignments Due Dates: What questions are we covering? What do we read? What Academic Considerations are applicable?
+Failure to use basic paragraph structure throughout your work will
+result in the inability to receive full marks.
 
-**TERM 1: September -- December**
-
-**Week 0: Sep 4**
-
-- Intro to the Course
-
-**Week 1: Sep 9 -- 11**
-
-- Lecture: Governing Ideas and Enduring Ideas
-
-  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
-    Politics 6e* - Chapter 1 - Governing Ideas ***and*** Chapter 2 --
-    Emerging Ideas
-
-**Week 2: Sep 16 -- 18**
-
-- Lecture: Democratic Ideas
-
-- Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
-  Politics 6e* - Chapter 3 - Democratic Ideas
-
-**Week 3: Sep 23 -- 25**
-
-- Lecture: Radical Ideas
-
-  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
-    Politics 6e* - Chapter 4 -Radical Ideas (continued from last week)
-
-**September 30 - no class** (National Day for Truth and Reconciliation)
-
-**Week 4: Oct 7 - 9**
-
-- Lecture: Non-Western Ideas
-
-  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
-    Politics 6e* - Chapter 5 - Non-Western Ideas
-
-**Wednesday October 8, 11:59 PM: Essay Bibliography and Outline (EBO)
-assignment Due via OWL** Brightspace **site**\
-**(no penalty applied if submitted by Tues October 14 11:59pm)**
-
-- [Concerning "Undocumented Absence" Academic
-  Consideration:]{.underline}
-
-  - You do not need to submit a request for academic consideration if
-    the EBO deadline cannot be met (self-attestation or otherwise)
-
-  - This is because an extension will be granted automatically, without
-    penalty, to Tuesday October 14th, for those experiencing extenuating
-    circumstances (e.g., illness, bereavement, etc.) that prevent
-    submission on the Due Date of Wednesday October 8^th^.
-
-  - TO BE CLEAR: *this does not mean the EBO is "really" due on* Tuesday
-    October 14th. It is due on Wednesday October 8th, but after Tuesday
-    October 14^th^ 11:59pm, the EBO is considered late, but we will
-    still accept submission until Wednesday October 15th with a late
-    penalty of -10% applied
-
-  - Again, a request for academic consideration will not be considered
-    if submitting between Wed Oct 8 11:59pm and Wed Oct 15 11:59pm
-    because an extension was already granted, and the EBO is now late
-
-  - Per Senate Regulations: "An instructor may deny academic
-    consideration relating to the timeframe submission of work where
-    there is already flexibility in the submission timeframe (e.g.,
-    72-hour submission window). This assessment flexibility must be
-    indicated on the course outline"
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
-    absence? When flexibility in assessment exists and is clearly stated
-    on the course outline, both undocumented absences and academic
-    consideration requests with documentation may be denied."
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-- If you have significant extenuating documented circumstances, you
-  should read the Registrar's Academic Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration
-
-- If you have documented grounds for a late submission extension beyond
-  October 15th, in that case, you should read the Registrar's Academic
-  Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration
-
-- Those students who are accommodated with flexible deadlines through
-  Accessible Education (AE) should check the OWL site for your
-  particular AE dates and other details and notes
-
-**Week 5: Oct 14 -- 16**
-
-- Lecture: Indigenous peoples, Land and the UNDRIP
-
-  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
-    Politics 6e* - Chapter 6 - Indigenous peoples, land and the UNDRIP
-
-**SUNDAY October 19, 2025, 6-7 PM \> Term 1 October Test via Brightspace
-(online only)**
-
-- *ONLY covers Weeks 1-4 of Lectures*
-
-- Further details, rules, directions, cautions, etc., will be provided
-  on the OWL site
-
-- This Test is a Designated Assessment exemption from "Undocumented
-  Absence" Academic Consideration:
-
-  - October Test is designated as exempt from "undocumented absence"
-    academic consideration
-
-  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
-    absence? \... Undocumented absences also cannot be used for the
-    "designated assessment" in each course."
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-  - Per Senate regulation "Policy on Academic Consideration --
-    Undergraduate Students in First Entry Programs", under "Policy":
-    "Instructors may designate one assessment per half-course weight as
-    requiring formal supporting documentation. In such cases, the
-    instructor must provide the student with another opportunity to
-    demonstrate proficiency in the content evaluated by the missed
-    assessment within the time frame of the course.", and note that our
-    course is a full-year course so each term is 'half-course weight'
-    <https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf>)
-
-- Documented Absence Academic Consideration: to request academic
-  consideration for your medical, varsity sport, or other documented
-  matter, you should read the Registrar's Academic Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration to write the Make-up Test
-
-- If you don't have documented grounds for academic consideration, e.g.
-  you slept-in or you forgot about the test, you may write the Make-up
-  Test with a --10% penalty applied
-
-- Make-up Test dates:
-
-  - Wed Oct 22 6-7 PM
-
-  - Fri Oct 24 6-7 PM
-
-- Those students who are accommodated with exam accommodations through
-  Accessible Education (AE) should check the OWL site for your
-  particular AE test details
-
-**Week 6: Oct 21 -- 23**
-
-- Lecture: The Politics of Race
-
-  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
-    Politics 6e* - Chapter 7 - The Politics of Race
-
-**Week 7: Oct 28 -- 30**
-
-- Lecture: Genders and sexualities
-
-  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
-    Politics 6e* - Chapter 8 - Genders and sexualities
-
-**READING WEEK NOV 1 - 9**
-
-**Week 8: Nov 11 - 13**
-
-- Lecture: Ableism and Disability: A Peculiar Politics
-
-  - Reading:
-
-  - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
-    6e* - Chapter 9 - Disability - A peculiar politics
-
-**Week 9: Nov 18 -- 20**
-
-- Lecture: Citizenship and Borders
-
-<!-- -->
-
-- Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
-  Politics 6e* - Chapter 10 - Citizenship and borders
-
-**Week 10: Nov 25 - 27**
-
-- Lecture: Digital Technology and Democracy
-
-  - Reading:
-
-  - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
-    6e* - Chapter 14: \' it\'s kinda complicated\': Digital technology
-    and democracy
-
-**Week 11: Dec 2 - 4**
-
-- Lecture: International Relations
-
-  - Reading:
-
-  - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
-    6e - Chapter 16 - International Relations*
-
-**Week 12: Dec 9**
-
-- Lecture: Political Ecology
-
-  - Reading:
-
-  - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
-    6e* - Chapter 19: Political Ecology
-
-**Essay assignment Due via OWL site** Wednesday December 3^rd^\
-**(no penalty applied if submitted by** Tuesday December 9th, 2025,
-**11:59pm)**
-
-- Concerning "Undocumented Absence" Academic Consideration:
-
-  - You do not need to submit a request for academic consideration if
-    this Essay deadline cannot be met (self-attestation or otherwise)
-
-  - This is because an extension will be granted automatically, without
-    penalty, to Tuesday, December 9, for those experiencing extenuating
-    circumstances (e.g., illness, bereavement, etc.) that prevent
-    submission on the Due Date of Wednesday, December 3.
-
-  - TO BE CLEAR: this does not mean the Essay is "really" due on
-    Tuesday, December 9; it is due on Wednesday, December 3. But after
-    Tuesday, December 9 at 11:59pm, the Essay is considered late. We
-    will still accept submission until Wednesday, December 10 at
-    11:00pm, with a late penalty of -10% applied.
-
-  - Again, a request for academic consideration will not be considered
-    if submitting between Wednesday, December 3 and Wednesday, December
-    10, because an extension was already granted, and the Essay is now
-    late.
-
-  - Per Senate Regulations: "An instructor may deny academic
-    consideration relating to the timeframe submission of work where
-    there is already flexibility in the submission timeframe (e.g.,
-    72-hour submission window). This assessment flexibility must be
-    indicated on the course outline"
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
-    absence? When flexibility in assessment exists and is clearly stated
-    on the course outline, both undocumented absences and academic
-    consideration requests with documentation may be denied"
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-- If you have significant extenuating documented circumstances, you
-  should read the Registrar's Academic Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration
-
-- If you have documented grounds for a late submission beyond March 7,
-  in that case, you should read the Registrar's Academic Consideration
-  page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration
-
-- Those students who are accommodated with flexible deadlines through
-  Accessible Education should check the OWL site for your particular AE
-  dates and other details and notes
-
-**Term 1 December Exam: 2-hours, Date & Time set by Registrar, during
-Official Exam Period**
-
-- ONLY covers Weeks 5-12 Lectures
-
-- Note: this is during the Official Exam Period, so per the Office of
-  the Registrar: "When CAN\'T I use an undocumented absence?
-  Undocumented absences cannot be used for examinations scheduled by the
-  Office of the Registrar during official examination periods (including
-  take-home final exams and December mid-year exams for full courses)"
-  (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-- Documented Absence Academic Consideration: to request academic
-  consideration for your medical, varsity sport, or other documented
-  matter, you should read the Registrar's Academic Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration to write the Make-up Exam
-
-- If you don't have documented grounds for academic consideration, e.g.
-  you slept-in or you forgot about the exam, you may write the Make-up
-  Exam with a --10% penalty applied
-
-- Make-up Exam dates will be posted on the OWL site after the Registrar
-  sets the date for the Regularly Scheduled Exam (we do not permit
-  writing the exam *ahead* of the Regularly Scheduled Exam date) with
-  write options in December and early January
-
-- Those students who are accommodated with exam accommodations through
-  Accessible Education (AE) should check the OWL site for your
-  particular AE exam details
-
-## Important information and rules about the course: what are some general rules governing this course
-
-- [Necessary conditions for passing this course]{.underline}: see under
-  "Evaluations" above
-
-- [Pre-requisites and Anti-Requisites]{.underline}:\
-  *Prerequisites*: none\
-  *Anti-requisites*: the former Politics 020E and 021F-026G, Politics
-  1020E 002, Politics 1020E 003, Politics 1020E 200, Politics 1020E 201,
-  Politics 1021F/G-1026F/G\
-  Please Note: You are responsible for ensuring that you have
-  successfully completed all course prerequisites, and that you have not
-  taken an anti-requisite course. Lack of prerequisites may not be used
-  as a basis for an appeal. If you are found to be ineligible for a
-  course, you may be removed from it at any time and you will receive no
-  adjustment to your fees. This decision cannot be appealed. If you find
-  that you do not have the course prerequisites, it is in your best
-  interest to drop the course well before the end of the add/drop
-  period. Your prompt attention to this matter will not only help
-  protect your academic record but will ensure that spaces become
-  available for students who require the course in question for
-  graduation." -- *Office of the Dean, Faculty of Social Science*
-
-> [USE your UWO/Western email account]{.underline}: Send and receive
-> emails by the UWO email system so that your information is
-> confidential and secure. Also, your non-UWO email may get caught in
-> spam, etc., and may not get a response or review.
-
-- [Statement on Use of Electronic Devices]{.underline}: NO electronics
-  devices are allowed during tests and examinations unless specified
-  differently.
-
-- [Statement on Academic Offences]{.underline}: "Scholastic offences are
-  taken seriously, and students are directed to read the appropriate
-  policy, specifically, the definition of what constitutes a Scholastic
-  Offence, at the following Web site:
-  <https://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf>
-
-- [Concerning Turnitin]{.underline}: "All required papers may be subject
-  to submission for textual similarity review to the commercial
-  plagiarism detection software under license to the University for the
-  detection of plagiarism. All papers submitted for such checking will
-  be included as source documents in the reference database for the
-  purpose of detecting plagiarism of papers subsequently submitted to
-  the system. Use of the service is subject to the licensing agreement,
-  currently between The University of Western Ontario and Turnitin.com
-  (<http://www.turnitin.com>)."\
-  Also check:
-  <http://www.westerncalendar.uwo.ca/PolicyPages.cfm?PolicyCategoryID=1&command=showCategory&SelectedCalendar=Live&ArchiveID>
-
-- [Multiple-Choice Exam format checking software]{.underline}:
-  "Computer-marked multiple-choice tests and/or exams may be subject to
-  submission for similarity review by software that will check for
-  unusual coincidences in answer patterns that may indicate cheating."\
-  Also check:
-  <http://www.westerncalendar.uwo.ca/PolicyPages.cfm?PolicyCategoryID=1&command=showCategory&SelectedCalendar=Live&ArchiveID>
-
-- [Support Services]{.underline}:\
-  Please visit the Social Science Academic Counselling webpage for
-  information on adding/dropping courses, academic considerations for
-  absences, appeals, exam conflicts, and many other academic related
-  matters: Academic Counselling - Western University (uwo.ca).\
-  Students who are in emotional/mental distress should refer to Mental
-  Health@Western (<https://uwo.ca/health/>) for a complete list of
-  options about how to obtain help.\
-  Western is committed to reducing incidents of gender-based and sexual
-  violence and providing compassionate support to anyone who has gone
-  through these traumatic events. If you have experienced sexual or
-  gender-based violence (either recently or in the past), you will find
-  information about support services for survivors, including emergency
-  contacts at
-  <https://www.uwo.ca/health/student_support/survivor_support/get-help.html>.
-  To connect with a case manager or set up an appointment, please
-  contact <support@uwo.ca>.\
-  Please contact Accessible Education at
-  <http://academicsupport.uwo.ca/accessible_education/index.html> if you
-  have any questions regarding accommodations.\
-  Learning-skills counsellors at the Learning Development and Success
-  Centre (<https://learning.uwo.ca>) are ready to help you improve your
-  learning skills. They offer presentations on strategies for improving
-  time management, multiple-choice exam preparation/writing, textbook
-  reading, and more. Individual support is offered throughout the
-  Fall/Winter terms in the drop-in Learning Help Centre, and year-round
-  through individual counselling.\
-  Western University is committed to a thriving campus as we deliver our
-  courses in the mixed model of both virtual and face-to-face formats.
-  We encourage you to check out the Digital Student Experience website
-  to manage your academics and well-being:
-  <https://www.uwo.ca/se/digital/>. Additional student-run support
-  services are offered by the USC, <https://westernusc.ca/services/>.
-
-- [Respectful conduct and engagement]{.underline}: Note conduct should
-  accord with the University of Western Ontario Student Code of Conduct,
-  which can be accessed as a PDF from:
-  <https://www.uwo.ca/univsec/pdf/board/code.pdf>\
-  In general, please be respectful of and courteous to yourself, me, our
-  TAs, your class colleagues, and others during discussions and other
-  course engagements.
+These paragraph formatting requirements are not arbitrary. There is a
+specific reason that I want you to use peer-reviewed academic sources,
+multiple ones in each paragraph. First, the difference between opinion
+and argument is the provision of evidence. Second, for an academic
+argument to have veracity it needs to have an arm\'s length perspective,
+it needs to draw on peer-reviewed sources because individual
+interpretation is prone to error. Next, if we have more than one
+academic source per paragraph if one of those sources is weak or
+questionable the other two will supplement it. Moreover, multiple
+sources prevent summary or representation of someone else\'s ideas as
+your own, if you must interpret multiple data sources. Finally, academic
+sources have explanatory frameworks that link them to underlying
+theoretical concepts and ideas. News sources, data points, and
+journalism provide evidence without analysis, academic work provides
+analysis with evidence. If you don\'t have that consistently throughout
+your writing, you are going to run into problems of the veracity of your
+claims because they lack substantiation.
+
+Weasel words---vague or evasive language that obscures
+meaning---undermine thesis-driven political arguments by avoiding clear
+claims and weakening the connection between evidence and position. As
+Theodore Roosevelt warned in 1916, they drain content from statements
+like a weasel empties an egg: the form remains, but the substance is
+gone. In political science, precision matters. Ambiguity dilutes
+argument.
+
+Why are weasel words proliferating?
+
+- LLMs avoid strong claims to minimize liability, leading to weasel
+  words.
+
+- They replicate academic tone through pattern-matching, not reasoning,
+  producing vague phrasing.
+
+- They favor generalizations to ensure broad applicability and avoid
+  exclusion.
+
+- They use soft language to evade controversy or implied stance.
+
+- Their training data overrepresents cautious, formulaic academic prose.
+
+- They default to description over argument due to lack of critical
+  capacity.
+
+## Basic steps to decolonization for all work in this course
+
+1.  Recontextualize political thinkers within their context -- what is
+    the role of imperialism and settler colonialism in their time.
+
+2.  Use imperialism and colonialism to understand the logic of these
+    thinker\'s arguments so that 'recontextualization leads to
+    reconceptualization'.
+
+3.  Challenging epistemology - how was it that knowledge came to be
+    understood as valid, and what was invalidated in the process?
+
+## General information about missed coursework
+
+Students must familiarize themselves with the *University Policy on
+Academic Consideration -- Undergraduate Students in First Entry
+Programs* posted on the Academic Calendar:
+
+<https://www.uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf>,
+
+This policy does not apply to requests for Academic Consideration
+submitted for **attempted or completed work**, whether online or in
+person.
+
+The policy also does not apply to students experiencing longer-term
+impacts on their academic responsibilities. These students should
+consult [Accessible
+Education](http://academicsupport.uwo.ca/accessible_education/).
+
+For procedures on how to submit Academic Consideration requests, please
+see the information posted on the Office of the Registrar's webpage:
+
+<https://registrar.uwo.ca/academics/academic_considerations/>
+
+All requests for Academic Consideration must be made within 48 hours
+after the assessment date or submission deadline.
+
+All Academic Consideration requests must include supporting
+documentation; however, recognizing that formal documentation may not be
+available in some extenuating circumstances, the policy allows students
+to make [one]{.underline} Academic Consideration request **without
+supporting documentation** in this course. However, the following
+assessments are excluded from this, and therefore always require formal
+supporting documentation:
+
+Term Assignment -- 15%
+
+When a student *[mistakenly]{.underline}* submits their
+[one]{.underline} allowed Academic Consideration request **without
+supporting documentation** for the assessments listed above or those in
+the **Coursework with Assessment Flexibility** section below, [the
+request cannot be recalled and reapplied]{.underline}. This privilege is
+forfeited.
+
+Coursework with Assessment Flexibility
+
+By policy, instructors may deny Academic Consideration requests for the
+following assessments with built-in flexibility.
+
+Flexible Completion assignments:
+
+Weekly participation. This course has 12 weekly participation
+assignments, and the 10 quizzes with the highest marks are counted
+towards your final grade. Should extenuating circumstances arise,
+students do not need to request Academic Consideration for the first 2
+missed weekly participations. Academic consideration requests will be
+denied for the first 2 missed weekly participation assignments.
 
 Religious Accommodation
 
@@ -676,13 +318,417 @@ the responsibility of the account holder to ensure that e-mail received
 from the University at their official university address is attended to
 in a timely manner.
 
-Scholastic offences are taken seriously, and students are directed to
+Scholastic offences are taken seriously and students are directed to
 read the appropriate policy, specifically, the definition of what
 constitutes a Scholastic Offence, at the following Web site:
 
 <https://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf>
 
-# Zoom Etiquette (for office hours)
+All required papers may be subject to submission for textual similarity
+review to the commercial plagiarism detection software under license to
+the University for the detection of plagiarism. All papers submitted for
+such checking will be included as source documents in the reference
+database for the purpose of detecting plagiarism of papers subsequently
+submitted to the system. Use of the service is subject to the licensing
+agreement, currently between The University of Western Ontario and
+Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
+
+## Weekly Participation -- 20% (Weekly submissions) 
+
+Weekly Assignments -- Base submission is pass/fail 70% (14 of 20)
+
+Students **must** complete a minimum of **two engagement options
+weekly** (Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
+requirements. Quizzes can be completed each week for one participation
+mark . The remaining forms of participation can only be done twice each
+during the entire course (i.e. you can only do 2 tiktoks per semester).
+You can collaborate with peers on submissions, but they must be
+submitted individually. You must adopt 5 different forms of
+participation throughout the course to build your portfolio and prevent
+rote production of participation. A total of 10 weeks of participation
+is required, allowing students to skip 2 weeks (e.g., weeks 1 and 12).
+Completing 10 weeks fulfills the full 70%. If you are submitting the
+same assignment for a second time, make sure to address 'What did I do
+differently this week?'
+
+Weekly Engagement Options (a minimum of two options required per week):
+
+1.  Brightspace Lesson Quiz Completion: Complete the 2 lesson quizzes in
+    the 'Tests & Quizzes' section. These quizzes are pass/fail; only
+    completion is counted, not quiz score. Each quiz counts for one
+    participation mark.
+
+2.  Written Responses (250 words per lesson): A reflective analysis
+    engaging with lesson ideas and concepts from lectures, readings, or
+    both. This is not a summary but a critical engagement that links
+    material to current international issues. Proper essay paragraph
+    structure and intext citations are required where applicable. You
+    must reference the course readings at least three times per week to
+    get maximum grades. Submissions not meeting these standards are
+    ineligible for full credit. Each written response counts for one
+    participation mark. See detailed criteria below.
+
+3.  Video Responses: A short (TikTok-style) video exploring a key
+    academic issue from each lesson's content, suitable for a general
+    audience. Videos must reference at least one academic, peer-reviewed
+    source from our reading list and can be uploaded to Brightspace each
+    week (or linked if hosted elsewhere). Public posting is not
+    required. Each video counts for one participation mark.
+
+4.  Other forms of participation from this list:
+    <https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies>
+    excluding: True/False Questions, Quiz, Exams and Tests,
+    Fill-in-the-Blank Questions, Close Reading with Questions, Diagram
+    or Image-Based Questions, Summary. If you have any questions please
+    contact the instructor about the viability of your participation.
+
+> Sample weekly participation submission:![Picture 565367195, Picture,
+> Picture, Picture](/media/image.png){width="4.989583333333333in"
+> height="1.78125in"}
+
+A Final calculation activity is **required** to receive your
+participation mark.
+
+At the end of the course students just need to calculate their
+participation based on the submissions each week throughout the course.
+We will take your top 5 weeks.\
+\
+2 forms of participation per week = 70% (pass/fail)\
+\
+More than 2 forms of participation each week, or substantive improvement
+can result in a higher grade (the 80, 85 and 90 grades below are
+approximations, I withhold the right to assess the quality of the
+submission and adjust the grade accordingly). You should be able to
+demonstrate responding to my feedback, engaging with different course
+material each week to demonstrate improvement throughout the course.\
+\
+Therefore the calculation would look like:
+
+'This is my calculation of my participation
+
+- 2 forms of participation: 2x on weeks 1, 2, 3, 7, 10 (I did the
+  quizzes and another exercise) 5\*70 = 350 & I responded to feedback
+  (see the attached files, improving my citation and paragraph structure
+  ) =10\*50 = 400/500
+
+- 3 forms of participation: Week 4, 5 (I did 2 quizzes and 2 TikTok\'s
+  and two op-eds) = 2\* 80 = 160/200
+
+- 4 forms of participation: Week 6, 8, 9 = (I did 3 quizzes, 2 article
+  reviews, 2 debates, 2 podcasts) = 3\*90 & 10% because you said I
+  improved the podcasts = 3\*100 = 300/300
+
+- Total calculation:\
+  400+200+300 = 900/1000 = 90% or 18/20\
+  Therefore, my participation for the term should be 18 out of 20 -
+  please see the attached files to demonstrate my improvement.'
+
+## Attendance Bonus (5% on Final Essay)
+
+Students will receive a 1% bonus on their final essay grade for every
+two classes attended (attendance must be recorded through the Microsoft
+form each week during class time), with a maximum of 10 classes
+considered to earn the full 5% bonus. You can check your participation
+through the link in Brightspace weekly.
+
+## Term Assignment: 15% of final grade. 
+
+### Option 1 -- Paired Debate 
+
+Students must sign up on the link in OWL by the end of week 3 for the
+debate or essay proposal or they forfeit their grade.
+
+In teams of two ONLY, students should pick a specific issue to
+decolonize related to their area of interest on Week one. The debate
+should outline the key issues from two opposing sides and points of
+contention and present each side coherently and convincingly to the
+class.
+
+The debate should likely be framed in reformist versus radical
+strategies of decolonization.
+
+The responses should attempt the decolonial strategies discussed in week
+1, with clear academic Foundation. Each pair should try to convey the
+perspective of the two sides as well as the actual outcome. MAXIMUM 5
+MINUTES.\
+The presentation should highlight:\
+1. Key actors involved\
+2. Relevant context or history related to the issue\
+3. Claims and evidence put forward on both side\
+4. Likely or actual outcome of the issue and the trajectory of the
+relations moving forward
+
+Students will need to upload their presentation in an accessible and
+clear format (such as a series of tiktoks back and forth, youtube, etc)
+for each week they sign up. Students must present on the week they sign
+up or else they forfeit their grade. Students are encouraged to think
+creatively about how they will present the debate and presentations may
+take alternative formats as long as they accomplish the requirements
+outlined above. In order to receive an individual mark, students must
+upload a short (200 word) summary of their role in the debate
+preparation and execution, assessing their groups' strengths and
+weaknesses in OWL under 'Assignments'. All written work must use proper
+essay paragraph structure and conform to the 'criteria for the
+evaluation of written assignments' below or it cannot achieve full
+grades.
+
+### Option 2 -- Essay Proposal 
+
+Students must sign up on the link in OWL by the end of week 3 for the
+debate or essay proposal or they forfeit their grade.
+
+Students will produce a 1000--1250-word description, excluding
+references (250 words per page) of the area of interest for the study,
+due at the end of **Week 7**. The assignment should highlight the area
+of interest of your research; the different perspectives that could be
+used to research the topic (methods, approaches, issues, events or
+people); one form of analysis that you think will be most fruitful; as
+well as a list of potential sources that are directly relevant to your
+area of interest (potential issues, gaps or problems with this list can
+be addressed in the assignment). The assignment must be in proper formal
+essay format (no bullet points, short form or colloquial language),
+should use subheadings to identify key issues, use proper citation and
+should NOT INCLUDE ANY FORM OF ANNOTATED BIBLIOGRAPHY. Dictionaries,
+encyclopedias, and Wikipedia should not be used, and use of web material
+is subject to instructor's prior approval. A basic structure for the
+assignment would be:
+
+> 1\) Title, topic and thesis question or area of interest for potential
+> research.
+>
+> 2\) Possible approaches to decolonize the issue (based on the handbook
+> for your topic). And why the one method seems most appropriate.
+>
+> 3\) A summary of key points or issues likely to structure your
+> research. These should outline key
+>
+> ideas, concepts, people or places, but express clear analytical
+> thinking. Simple lists or unfocused summaries are not likely to
+> receive high marks.
+>
+> 4\) A discussion of potential problems or pitfalls in this issue
+> and/or weaknesses in the list of resources you have compiled. This is
+> not an annotated bibliography; rather it is an assessment and overview
+> of common themes, author biases, missing data, weak analyses, etc.
+>
+> 5\) An overarching statement of the usefulness or goals of the
+> research and why the topic chosen is relevant to the course material.
+> This could form the basis for the introduction or conclusion of your
+> later research but should provide a general overview.
+>
+> 6\) The list of resources you are likely to draw upon in the paper as
+> well as any that you have cited in the preparatory work (in other
+> words, your bibliography). THIS IS NOT AN ANNOTATED BIBLIOGRAPHY. It
+> is a reflection on the strengths and weaknesses of the totality of
+> your bibliography. This may include non‐academic sources, but there
+> must be a minimum of 4 academic, peer-reviewed sources (and they
+> should cover at least three different themes in your work). You must
+> include a discussion of the importance of the relevant course texts,
+> or your assignment will be considered incomplete. All written work
+> must use proper essay paragraph structure and conform to the 'criteria
+> for the evaluation of written assignments' below or it cannot achieve
+> full grades. **In most cases, all academic sources should come from
+> the required and optional course outline readings.**
+>
+> 7\) A title page with your name, a title for your future research, the
+> date of submission and the course number on it.
+
+### Option 3 - Media Assessment
+
+Due at the end of **Week 7.** This assignment will critically engage
+with a movie or documentary that deals with decolonial politics. A list
+of acceptable material is available on the course webpage, and all media
+must have sufficient levels of academic-based argumentation from our
+class to warrant its use. All media assessments must have prior approval
+of the instructor and must be signed up on the course website at least 2
+weeks before it is handed in. The media assessment must critically
+engage with the content of the movie for its use in our understand of
+the course material, as well as base arguments in academic research and
+debates. You should assess the media for its arguments about
+decolonization, and the viability of the arguments given the academic
+debates on the issue. The assignment should be a minimum of 1000 words,
+in proper essay format (with title page and bibliography) and have a
+minimum of 4 academic sources, drawing primarily from course readings.
+All written work must use proper essay paragraph structure and conform
+to the 'criteria for the evaluation of written assignments' below or it
+cannot achieve full grades.
+
+## Option 4: Community Engaged Learning 15 % of final grade
+
+A few students will have the option of participating in a Community
+Engaged Learning (CEL) opportunity with an offsite organization involved
+in International legal issues. Students must submit an application
+in-class for the opportunity to participate and will be graded on their
+successful completion of their placement and a short reflective summary
+that links their work with the CEL to class content. The reflection is
+just about how you felt about it in the beginning, middle and end and
+how your expectations changed over time. I am looking for reflection, if
+you can link to course themes that would be great, but I am really
+assessing reflection in general. It shouldn\'t be too long - I feel the
+CEL placement is the bulk of the work, it is really just an expanded
+version of the logs with some reflection on what happened, how your
+expectations changed and what you would say to someone who wanted to do
+it next year (i.e. 4-5 double spaced pages). All written work must use
+proper essay paragraph structure and conform to the 'criteria for the
+evaluation of written assignments' below or it cannot achieve full
+grades.
+
+## Essay 40% of final grade, due at the end of Week 10 (March 24, 2025, 11:59 PM).
+
+The final draft of the paper should be 10-12 pages (2500-3000 words) in
+length (excluding the bibliography) and must be presented in proper
+scholarly format. The instructor may require that 10% of randomly
+selected students will have to meet to discuss their paper after
+completion to ensure there has been no improper LLM use.
+
+Students will write a major research paper (based primarily on academic
+sources) on a topic of their choice, to be arrived at in consultation
+with the instructor. Essay topics should be chosen by week 6. The essay
+will choose a pre-approved topic and the required material(s) and
+explicitly choose something to decolonize using Shilliam's
+*recontextualize, reconceptualize, reimagine* framework. The assignment
+must be in proper formal essay format (no bullet points, short form, or
+colloquial language, can use subheadings to identify sections, use
+proper citation, and should NOT INCLUDE ANY FORM OF ANNOTATED
+BIBLIOGRAPHY). Dictionaries, encyclopedias, and Wikipedia should not be
+used, and use of web material is subject to instructor's prior approval.
+A basic structure for the essay will include:
+
+1.  **Title, topic, and thesis question or area of interest for
+    potential research.** Preapproved topics and approaches are here.
+
+2.  **Something to decolonize** using Shilliam's *recontextualize,
+    reconceptualize, reimagine* framework. The framework will provide
+    the explanatory foundation of the thesis.
+
+3.  **Three key distinct arguments with evidence in support of the
+    thesis.** Remember to follow the paragraph structure in the course
+    outline. The data should primarily come from course readings, the
+    pre-approved suggested readings, and the suggested textbooks.
+    Students must engage with at least four course texts to complete the
+    assignment, and the majority of your academic sources should come
+    from the required and optional readings in the course outline.
+
+4.  **A conclusion that mirrors your title, topic, and thesis
+    question.** It is always a good idea to rewrite your introduction
+    after you have written your conclusion. Your conclusion should
+    provide the clear foundation that you have established throughout
+    the essay, to demonstrate the validity of your thesis. Therefore,
+    your thesis and your conclusion should match one another. Failure to
+    have consistent argumentation will result in the inability to
+    achieve full grades.
+
+5.  **Properly cited research.** In-text citation is preferred
+    (author-date system, as outlined below in 'guidelines for success in
+    class'). There should be no proxy urls (<https://www.lib.uwo.ca/>),
+    no search urls (<http://search.proquest.com/scholarly-journals/>),
+    or Dropbox urls (<https://www.dropbox.com/>). Citations need to be
+    consistently formatted, readily available, in English, with precise
+    page numbers (no inclusion of p.23-44, or consistent citation across
+    pages (i.e. p.118-119). Lack of data is a lack of foundation. In the
+    era of LLMs, inaccurate citations will be treated as no citation at
+    all. LLMs routinely summarize sources without accessing the
+    underlying data. Failure to directly quote sources with quotation
+    marks followed by an explanation in your own words will constitute a
+    lack of sufficient citation. Paraphrasing is no longer sufficient
+    justification for including a citation; you must use specific and
+    precise language, including nouns (specific people, places, and
+    things), as generalized summaries of sources are often hallucinated,
+    inaccurate, and incomplete when suggested by LLMs.
+
+6.  **A title page** with your name, a title for your paper that
+    reflects the thesis and topic of your paper, the date of submission,
+    and the course number on it. If you cannot clearly and simply
+    identify the title and topic of your paper, it is often an indicator
+    of a lack of focus.
+
+Papers submitted before the deadline can revise and resubmit the
+assignment. For details on revision and resubmission see the 'revise and
+resubmit' tab in OWL.
+
+The Department's rules regarding plagiarism and the submission of
+similar essays to two or more different instructors are appended to this
+course outline and should be noted. (See 'Criteria for Evaluation of
+Written Assignments' below). Students must submit their papers through
+OWL and all papers may be processed by turnitin. Papers submitted after
+deadlines (including excused late papers) will be marked, but comments
+will not be provided.
+
+## Final Exam 
+
+25% of final course grade. To be scheduled during the exam period.
+
+The final exam will be cumulative (i.e., will be based on the material
+covered in lectures, assigned readings, and discussions throughout the
+whole of the course). The exam may include both a short
+answer/identification component and questions requiring longer,
+essay-style responses. A choice of answers and an exam preparation guide
+may be given. The examination requires a breadth of use of the course
+readings, examination answers that reference one or two readings fail to
+demonstrate breadth and cannot achieve full marks regardless of any
+other criteria. All written work must use proper essay paragraph
+structure and conform to the 'criteria for the evaluation of written
+assignments' below or it cannot achieve full grades.
+
+# Learning Outcomes
+
+  ------------------------------------------------------------------------
+  Assignment       Description               Learning Outcome
+  ---------------- ------------------------- -----------------------------
+  Participation                              Recognize the importance of
+                                             listening; communicate
+                                             verbally and in analytic and
+                                             clear fashion; an awareness
+                                             of the extensive and limits
+                                             of one's own knowledge,
+                                             informed by exposure to
+                                             information, concepts,
+                                             theories and experience
+
+  Response Papers  Identify key themes and   Communicate in written form
+                   arguments in written      in an analytical and clear
+                   work, synthesize          fashion; an awareness of the
+                   arguments analytically    extensive and limits of one's
+                   into written form         own knowledge; assess
+                                             evidence critically;
+
+  Essay            Ability to identify       Communicate in written form
+                   different methodological  in an analytical and clear
+                   approaches; apply a       fashion; situate knowledge
+                   specific methodological   historically and
+                   approach to a specific    contextually; assess evidence
+                   global issue issue;       critically; well-developed
+                   analyze the global issue  research skills
+                   for trajectory; evaluate  
+                   likely outcomes of the    
+                   issue                     
+
+  Group            Ability to identify       Critically assess each
+  Presentations    different methodological  other's arguments for
+                   approaches; apply a       validity in terms of current
+                   specific methodological   affairs; gain a basic
+                   approach to a specific    understanding of the academic
+                   global issue; analyze the editing process; work with
+                   global issue for          peers to develop strong
+                   trajectory; evaluate      arguments about global issues
+                   likely outcomes of the    
+                   issue                     
+
+  Exam                                       Communicate in a written
+                                             format in an analytical and
+                                             clear fashion; situate
+                                             knowledge historically and
+                                             contextually; assess evidence
+                                             critically; how power culture
+                                             and history condition
+                                             knowledge formation;
+                                             understand the ambiguity,
+                                             uncertainty, ubiquitous and
+                                             controversial nature of
+                                             politics
+  ------------------------------------------------------------------------
+
+# Zoom Etiquette
 
 1.  Please pay attention to video, microphone and screensharing
     settings. Keep chat rooms and images appropriate for an academic
@@ -713,13 +759,21 @@ permitted to record the sessions, except where recording is an approved
 accommodation, or the participant has the prior written permission of
 the instructor.
 
+# Meeting the Requirements of the Assignment: 
+
+All written work must be submitted on time, must be of the appropriate
+length, must use the required number and type of resources, and, most
+importantly, must address the issues or questions posed in the
+assignment. All work must have sufficient academic content and sources
+related to our course or else it cannot receive full marks.
+
 # Non-medical and medical accommodation
 
 Non-medical absences from class, late essays or assignments, will be
 subject to a 10% penalty per day (weekends included). All assignments
 must be completed to receive course credit. Further information is found
 in the Policy on Accommodation for Medical Illness
-(<https://studentservices.uwo.ca/secure/index.cfm>).
+(https://studentservices.uwo.ca/secure/index.cfm).
 
 Accommodation for medical illness of work worth less than 10% of the
 total course grade will require medical documentation. If documentation
@@ -728,46 +782,242 @@ then such documentation must be submitted directly to the appropriate
 Faculty Dean\`s office and [not]{.underline} to the instructor. Only the
 Dean\`s office can determine if accommodation is warranted.
 
+# Statement on Academic Offences
+
+Scholastic offences are taken seriously and students are directed to
+read the appropriate policy, specifically, the definition of what
+constitutes a Scholastic Offence, at the following Web site:
+http://www.uwo.ca/univsec/handbook/appeals/scholastic_discipline_undergrad.pdf
+.
+
+"All required papers may be subject to submission for textual similarity
+review to the commercial plagiarism detection software under license to
+the University for the detection of plagiarism. All papers submitted for
+such checking will be included as source documents in the reference
+database for the purpose of detecting plagiarism of papers subsequently
+submitted to the system. Use of the service is subject to the licensing
+agreement, currently between The University of Western Ontario and
+Turnitin.com ( http://www.turnitin.com )."
+
 ## Guidelines for Success in Class
 
 Since there seldom are definitive answers to the questions we will be
-asking about political power and participation, and much of what you
-will learn in this course will be enhanced by the ideas and perspectives
-of your colleagues. But for this to work, everyone must participate
-fully and constructively. Be mindful of the following points, and you
-will be successful:
+asking about Canadian-US relations, and much of what you will learn in
+this course will be enhanced by the ideas and perspectives of your
+colleagues. But for this to work, everyone must participate fully and
+constructively. Be mindful of the following points, and you will be
+successful:
 
-- Come to all classes having read the assigned readings for that week
-  and prepared to participate in discussion. It is useful to remember
-  that some week's readings may be more comfortable relevant to your
-  research interests than others and focusing on readings that are most
-  salient to your interests will ensure maximum usefulness in the
-  course.
+1.  • Come to all classes having read the assigned readings for that
+    week and prepared to participate in discussion. It is useful to
+    remember that some week's readings may be more relevant to your
+    research interests than others and focusing on readings that are
+    most salient to your interests will ensure maximum usefulness in the
+    course.
 
-- Participate in discussions, but do not over-participate. Everyone must
-  be given an opportunity to take part in discussions. Constructive
-  participation involves the raising of *relevant* points and ideas.
-  Online participation will be considered as well in participation
-  marks.
+    • Participate in discussions, but do not over-participate. Everyone
+    must be given an opportunity to take part in discussions.
+    Constructive participation involves the raising of *relevant* points
+    and ideas. Online participation will be considered as well in
+    participation marks.
 
-- Demonstrate respect for the ideas presented by others at all times.
-  This is essential to open discussion and the free exchange of ideas.
-  This does not mean that you must agree with others. Informal debate
-  will teach you even more about your own position while simultaneously
-  exposing you to different viewpoints. Make use of such opportunities,
-  but no disrespectful behavior will be tolerated.
+    • Demonstrate respect for the ideas presented by others at all
+    times. This is essential to open discussion and the free exchange of
+    ideas. This does not mean that you must agree with others. Informal
+    debate will teach you even more about your own position while
+    simultaneously exposing you to different viewpoints. Make use of
+    such opportunities, but no disrespectful behavior will be tolerated.
+
+    • Raise questions when you have them. Raising useful questions
+    counts as participation. You can use the online forums, e-mail,
+    Facebook or zoom to raise questions you encounter throughout the
+    course. Uncertainties are usually shared by others -- when you raise
+    your questions in class everyone learns while you build your own
+    participation grade. The forums should be the primary location for
+    questions, please only use the other options AFTER you have posted
+    to the forum.
+
+# Criteria for the evaluation of written assignments
+
+## Paragraph structure 
+
+Basic paragraph structure is an important part of writing. Failure to
+use basic paragraph structure will result in repetitive, unstructured,
+illogical arguments. Paragraphs help to structure our thought, our
+ability to make claims and provide a framework for writing. The topic
+sentence and concluding sentence of a paragraph should be in your own
+voice (no direct references). A basic paragraph structure should follow
+this template:
+
+> Topic sentence one or two lines
+>
+> Major point with evidence one or two lines (one with citation and one
+> in your own words)
+>
+> Major point with evidence one or two lines (one with citation and one
+> in your own words)
+>
+> Major point with evidence one or two lines (one with citation and one
+> in your own words)
+>
+> Summarizing sentence of overall significance to the overarching thesis
+> of the paper
+>
+> Concluding sentence which restates topic sentence and bridges to next
+> paragraph.
+
+Failure to use basic paragraph structure throughout your work will
+result in the inability to receive full marks.
+
+## Quotations
+
+Quotations longer than 4 lines should be indented. Try to avoid
+quotations longer than 4 lines. Assume that I do not read an indented 4
+line quotation and make sure the sentence immediately following the
+quotation summarizes its significance to your argument in your own
+words. Never include quotations or sources in your introduction or
+conclusion, your introduction and conclusion should outline the paper
+structure in your own words.
+
+## Citations and Bibliography
+
+In the era of LLMs, inaccurate citations will be treated as no citation
+at all. LLMs routinely summarize sources, without accessing the
+underlying data. A failure to directly quote sources with quotation
+marks followed by an explanation in your own words will constitute a
+lack of sufficient citation. Paraphrasing is no longer a sufficient
+justification for including a citation, you must use specific and
+precise including nouns (specific people, places and things) as
+generalized summaries of sources are often hallucinated, inaccurate and
+incomplete when suggested by LLMs.
+
+We will use the author date system. It keeps footnotes and endnotes to a
+minimum.
+
+- Text references will be short with the Surname, Date and page number
+  (i.e. Žižek 2002: 342).
+
+- Use this formatting everywhere, including sources from our reading
+  list and in the response papers and any written work.
+
+- Works by the same author in the same year should be cited as Žižek
+  2002a, Žižek2002b, etc.
+
+- Et al. can be used by sources with three or more authors. The full
+  list must be in the bibliography.
+
+- If you have more than one source in the same sentence you just include
+  them with a semi-colon in chronological order i.e (Žižek 2002: 345;
+  D'Amelio 2018: 212; Swift 2020: 445)
+
+## Bibliography 
+
+> A bibliography must be included in all written work, it should include
+> the complete details of the work and included an 'Accessed' date if it
+> is an online source.
+>
+> Sample bibliography
+>
+> Bastos, Marco T., and Dan Mercea. \"The Brexit botnet and
+> user-generated hyperpartisan news.\" Social Science Computer Review
+> 37.1 (2019): 38-54.
+>
+> Dobber, T., R. F. Fahy, and FJ Zuiderveen Borgesius. \"The regulation
+> of online political micro-targeting in Europe.\" Internet Policy
+> Review 8.4 (2019): 4.
+>
+> Grieder, William. "How the swindlers of Silicon Valley avoid paying
+> taxes." The Nation, October 17, 2017,
+> <https://www.thenation.com/article/how-the-swindlers-of-silicon-valley-avoid-paying-taxes/>.
+> Accessed August 1, 2020.
+>
+> Gill, Stephen. \"Transnational class formations, European crisis and
+> the silent revolution.\" Critical Sociology 43.4-5 (2017): 641.
+
+## Analytical Content and Paragraph structure:
+
+Higher grades will be given to work that demonstrates the ability to
+interpret, critically assess and develop insights of the material. To
+determine whether or not your argument is analytical, ask yourself \"Am
+I demonstrating to the reader my insights in an academic way?" If you
+are simply summarizing or describing in detail phenomena, your work is
+unlikely to have high analytical content.
+
+> *Helpful signs you are not developing analytical content: Excessive
+> quotes; beginning or ending a paragraph with a quote; short (fewer
+> than 4 sentences) paragraphs; no sources in a long paragraph; lack of
+> similar argument in introduction and conclusion.*
+
+## Development of an Argument:
+
+Higher grades will be given to work that has a clearly stated argument
+and a set of logically developed and reasonably comprehensive points in
+support of that argument. Academic arguments need not be personal
+(though in certain instances they can be -- check with the instructor),
+rather they demonstrate the logical progression of the position you are
+developing. The key here is to attempt to convince your reader of the
+soundness or feasibility of your argument. Nuanced arguments recognize
+obvious criticisms and seek to address them logically. Consistency of an
+argument throughout a paper is important.
+
+> *Helpful signs your argument may be in trouble: Using the same author
+> or quote more than a few times in successive paragraphs; your
+> introduction and conclusion are not similar; you introduce material in
+> the introduction and the conclusion that cannot be found elsewhere;
+> you have quotes in your conclusion; your attempt to address obvious
+> criticisms contradicts your thesis, you adopt multiple theoretical
+> frameworks; you cannot find any sources that agree with your central
+> claims.*
+
+## Grammar, Spelling, and Style: 
+
+Higher grades will be given to written work that is grammatically
+correct and is clearly and accurately written, while lower grades will
+be given to work that is difficult to read or understand due to
+excessive grammatical and/or spelling errors.
+
+> *While different approaches work for different people, it is
+> recommended that you try the following every time you have a written
+> assignment: after completing your assignment, put it away for a while
+> (ideally, for a few days); when you pick it up again, read it
+> carefully, slowly, and aloud (when we are familiar with a paper we
+> tend to skim it during proof-reading, thereby missing errors -- so
+> make sure you are reading it word for word). Mistakes in grammar may
+> not always look wrong, but they usually sound wrong. If you need some
+> help with writing style or grammar, there are many resources available
+> on campus.*
+
+# General
+
+All students must complete all course requirements. Failure to do so
+(e.g., by not handing-in an assignment or by missing an examination
+without due cause) will subject the student to the appropriate
+University regulations. Students must also keep a duplicate copy of
+their assignments.
 
 ## Policy on communication
 
-I strive to be accessible and responsive to student inquiries. However,
-repeated or persistent e-mails/texts/phone calls will overload my
-capacity to respond to all students equally. As such, I reserve the
-right to answer initial questions but forego multiple responses or
-inquiries for a 24-hour cool-down period. I also may take longer to
-respond to communications during non-working hours, holidays, and
-weekends. I appreciate your understanding in this matter.
+The forums should be your primary place for questions, issues and
+concerns with the course. I strive to be accessible and responsive to
+student inquiries. However, repeated or persistent e-mails/texts/phone
+calls will overload my capacity to respond to all students equally. As
+such, I reserve the right to answer initial questions but forego
+multiple responses or inquires for a 24hour cool-down period. I also may
+take longer to respond to communications during non-working hours,
+holidays, and weekends. I appreciate your understanding in this matter.
 
-## Policy on Children in the classroom[^1]
+## Late Assignments - Formal Guidelines
+
+Late papers will be accepted but will be subject to a late penalty of 10
+per cent per day to a maximum of 5 days, after which they will not be
+accepted and a mark of 0 will be recorded. In the interest of fairness
+to all students, there will be no exceptions to this unless you have
+arranged in advance for an extension. All extensions must be arranged in
+advance of the day on which a paper is due**. Papers submitted after
+deadlines (including excused late papers) will be marked, but comments
+will not be** **provided.**
+
+## Policy on Children in the classroom[^1] 
 
 "It is my belief that if we want women in academia, that we should also
 expect children to be present in some form. Currently, the university
@@ -841,11 +1091,32 @@ it is important that we listen and respect one another but we do not
 have to agree. A richer discussion will occur when a variety of
 perspectives are presented in class for discussion.
 
+## Academic Sources
+
+A key aspect of the university experience is developing your ability to
+assess the validity of sources. Academic sources such as those found on
+Google Scholar should be your primary source of arguments, ideas and
+claims made in the course. While it may be appropriate to provide
+anecdotal, non-academic, news, theories from outside the academy as data
+points, all arguments must be situated in triangulated academic
+research. By triangulation (you may see a ∆ on your assignments) this is
+the idea that academic peer review provides a foundation for the
+veracity of the claims being made. if you rely too heavily on one source
+(i.e. that more than 3 footnotes in a row are from the same source) you
+may be veering towards summary or plagiarism of that source as it lacks
+proper verification from other academics who agree with those
+assessments. Moreover, most sources have implicit or explicit
+frameworks, understandings, biases which you may not be able to assess
+without triangulation. While there is no explicit number of sources
+required on assignments, you will be unable to achieve full marks if you
+do not have academic arguments with academic sources. This is a standard
+expectation of all assignments in this class.
+
 ## Discussion Guidelines[^2]
 
 In our structured and unstructured discussions and dialogues, we also
 will have many opportunities to explore some challenging, high-stakes
-issues and increase our understanding of different perspectives. Our
+issues and increase our understandings of different perspectives. Our
 conversations may not always be easy; we sometimes will make mistakes in
 our speaking and our listening; sometimes we will need patience or
 courage or imagination or any number of qualities in combination to
@@ -856,7 +1127,7 @@ the sometimes-difficult conversations that arise inside issues of social
 inequality as we deepen our understandings of multiple perspectives --
 whatever our backgrounds, experiences, or positions.
 
-## Policy on the use of LLMs (AI, ChatGPT, Bard, etc) in the classroom[^3] 
+## Policy on the use of LLMs (AI, ChatGPT, Bard, etc) in the classroom **^3^**
 
 Unless otherwise noted during class activities, you may only use ChatGPT
 or any other Generative technology to *aid* or *nuance* your thinking,
@@ -869,32 +1140,29 @@ generative technology, please let me know.
 
 How generative technology may be used in assessment:
 
-1\. Pre-assessment - to provide structural or overall feedback before
-beginning any grading.
+1\. Pre-assessment - to provide structural or overall feedback before I
+begin any grading.
 
 2\. Applying rubric - using the rubric from the course outline to apply
 to submitted assignments to assess the degree of compliance before or
-during completing any grading.
+during I complete any grading.
 
 3\. During assessment - to double-check the veracity of claims being
-made about your submission during the assessment of your material.
+made about your submission during my assessment of your material.
 
 4\. Post assessment - to find additional examples or instances in your
-submissions to assist in providing feedback.
+submissions to assist in my feedback.
 
 5\. Refining assessment - suggesting forms of constructive criticism,
 actionable items, and overarching themes or issues to assist in your
 assessment.
 
-6\. Checking for unauthorized AI use, following University guidelines
-(and those attached below).
-
 How generative technology will NOT be used in assessment:
 
 No grades will be assigned solely with generative technology at any
-point in this course. Assessment will always be done by the
-instructor/graders in accordance with the course outlines, because of
-the unpredictability and unreliability of current generative technology.
+point in this course. Assessment will always be done by the instructor
+in accordance with the course outlines, because of the unpredictability
+and unreliability of current generative technology.
 
 No personal or individual identifiers will ever be included in the
 assessment of material by any generative technology.
@@ -957,49 +1225,59 @@ assessment of material by any generative technology.
 | abilities.**   |                                                                                                                          |                                                                                   |
 +----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
 
-  ------------------ ----------------------------------------------------------------------------------------------------------------------------
-  **Example of a     **Why is this NOT Allowed?**
-  Non-Allowable      
-  Use**              
-
-  Prompting a        Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building
-  Generative         community and relationships as well as actively engaging in your own thinking and learning to communicate with others. Using
-  technology         Generative technology for this activity subverts both the social and learning goals of the activity.
-  technology to      
-  **respond to a     
-  discussion forum   
-  prompt** for you.  
-
-  Using a Generative Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best
-  technology         to communicate that information to an audience. Prompting Generative technology to do this work for you subverts your
-  technology (e.g.,  learning and the opportunity to develop your creative communication skills.
-  Slidesgo) to       
-  **design a class   
-  presentation** for 
-  you.               
-
-  Modifying          Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([learn
-  AI-generated work  more](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because the
-  slightly to **make focus is on minor adjustments rather than truly understanding the material.
-  it appear as if    
-  you created it**.  
-
-  Prompting          Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis
-  Generative         output for you) prevents you from actively engaging with, and learning, the material (read: [Generative AI Can Harm
-  technology to      Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using
-  **analyze data for Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or
-  you** and          math machines, they are predictability machines (they guess which words go together to make the most plausible
-  submitting the     human-sounding response).
-  data analysis as   
-  your own.          
-
-  Copying            Please read "[The Case For Not Citing Chatbots As Information
-  AI-generated text  Sources](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)"
-  word for word into and "[Generative AI Has an Intellectual Property
-  your written work, Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original source
-  but **citing it as to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and learning about
-  written by AI**.   that topic and you are giving credit to human authors/artists.
-  ------------------ ----------------------------------------------------------------------------------------------------------------------------
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| **Example of a  | **Why is this NOT Allowed?**                                                                                               |
+| Non-Allowable   |                                                                                                                            |
+| Use**           |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Prompting a     | Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building   |
+| Generative      | community and relationships as well as actively engaging in your own thinking and learning to communicate with others.     |
+| technology      | Using Generative technology for this activity subverts both the social and learning goals of the activity.                 |
+| technology to   |                                                                                                                            |
+| **respond to a  |                                                                                                                            |
+| discussion      |                                                                                                                            |
+| forum prompt**  |                                                                                                                            |
+| for you.        |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Using a         | Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best |
+| Generative      | to communicate that information to an audience. Prompting Generative technology to do this work for you subverts your      |
+| technology      | learning and the opportunity to develop your creative communication skills.                                                |
+| technology      |                                                                                                                            |
+| (e.g.,          |                                                                                                                            |
+| Slidesgo) to    |                                                                                                                            |
+| **design a      |                                                                                                                            |
+| class           |                                                                                                                            |
+| presentation**  |                                                                                                                            |
+| for you.        |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Modifying       | Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([learn      |
+| AI-generated    | more](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because    |
+| work slightly   | the focus is on minor adjustments rather than truly understanding the material.                                            |
+| to **make it    |                                                                                                                            |
+| appear as if    |                                                                                                                            |
+| you created     |                                                                                                                            |
+| it**.           |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Prompting       | Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis   |
+| Generative      | output for you) prevents you from actively engaging with, and learning, the material (read: [Generative AI Can Harm        |
+| technology to   | Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using        |
+| **analyze data  | Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or |
+| for you** and   | math machines, they are predictability machines (they guess which words go together to make the most plausible             |
+| submitting the  | human-sounding response).                                                                                                  |
+| data analysis   |                                                                                                                            |
+| as your own.    |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Copying         | Please read "[The Case For Not Citing Chatbots As Information                                                              |
+| AI-generated    | Sources](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)" |
+| text word for   | and "[Generative AI Has an Intellectual Property                                                                           |
+| word into your  | Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original       |
+| written work,   | source to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and         |
+| but **citing it | learning about that topic and you are giving credit to human authors/artists.                                              |
+| as written by   |                                                                                                                            |
+| AI**.           | However, if you prompt a Generative technology technology to create an original source of text or media -- something that  |
+|                 | cannot be traced back to an original source (e.g., a Taylor Swift rendition of the Declaration of Independence) -- you can |
+|                 | write "This text was generated by ChatGPT \[or insert another Generative technology technology\] in a footnote."           |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
 
 You are responsible for the information you submit based on an AI query
 (for instance, that it does not violate intellectual property laws, or
@@ -1007,22 +1285,653 @@ contain misinformation or unethical content). Any assignment that is
 found to have used generative AI tools in unauthorized ways can result
 in: a failure to receive full grades, the need to resubmit the
 assignment, need to orally present the assignment in office hours, or a
-failure to complete the requirements of the course. When in doubt about
+failure to complete the requirements of the course. If in doubt about
 permitted usage, please ask for clarification.
 
-APPENDIX TO UNDERGRADUATE COURSE OUTLINES DEPARTMENT OF POLITICAL
-SCIENCE
-[https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES.pdf](https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES1.pdf)
+# Reading Schedule 
 
-**Accessibility at Western: Please** contact <poliscie@uwo.ca> if you
+## Week 1 -- Colonialism, Empire, and the Polis
+
+Shilliam, Robbie. Decolonizing Politics: An Introduction. John Wiley &
+Sons, 2021. Ch 1 - Introduction
+
+Discussion topic: Decolonizing the essay
+
+Additional Readings:
+
+- Required: Mignolo, Walter D., and Catherine E. Walsh. On
+  decoloniality: Concepts, analytics, praxis. Duke University
+  Press, 2018. Ch 1.
+
+- Frank, Jill. 2004. "Citizens, Slaves, and Foreigners: Aristotle on
+  Human Nature." American Political Science Review 98 (1): 91--104.
+
+- Malkin, Irad. 2004. "Postcolonial Concepts and Ancient Greek
+  Colonization." MLQ: Modern Language Quarterly 65 (3)
+
+- Dietz, Mary G. 2012. "Between Polis and Empire: Aristotle's Politics."
+  The American Political
+
+Science Review 106 (2)
+
+- Cambiano, Giuseppe. 1987. "Aristotle and the Anonymous Opponents of
+  Slavery." In Classical
+
+Slavery, ed. Moses I. Finley, 28--52. London: Cass.
+
+- Borrows, John. Canada's Indigenous Constitution. Toronto: University
+  of Toronto Press, 2010. Ch 1.
+
+## Week 2 -- Race and Political Theory
+
+Shilliam, Robbie. Decolonizing Politics: An Introduction. John Wiley &
+Sons, 2021. ch 2 - Political Theory.
+
+Discussion topic: Critically assessing sources
+
+Additional Readings:
+
+- Required: Sylvia Wynter. 2015. "The Ceremony Found: Towards the
+  Autopoetic Turn/Overturn, Its Autonomy of Human Agency and
+  Extraterritoriality of (Self-)Cognition." In Black Knowledges /Essays
+  in Critical Epistemology, ed. Sabine Broeck, 184--252. Liverpool:
+  Liverpool University Press
+
+- Immanuel Kant. 2011. "Determination of the Concept of a Human Race."
+  In Kant: Anthropology, History, and Education, eds. Robert B Louden
+  and Günter Zöller, 143--159. Cambridge: Cambridge University Pres
+
+- Immanuel Kant. 2011. "Of the Different Races of Human Beings." In
+  Kant: Anthropology, History, and Education, eds. Robert B Louden and
+  Günter Zöller, 82--97. Cambridge: Cambridge
+
+University Press.
+
+- Elizabeth Phillipose, \"Decolonizing Political Theory\", Radical
+  Pedagogy 2007
+
+<https://radicalpedagogy.icaap.org/content/issue9_1/philipose.html>
+
+- Sylvia Wynter. 1991. "Columbus and the Poetics of the Propter Nos."
+  Annals of Scholarship 8 (2):
+
+251--286.
+
+- Chaly, V.A., 2020. Immanuel Kant --- Racist and Colonialist? Kantian
+  Journal, 39(2), pp. 94- 98. http://www.kant-online.ru/en/?p=1264
+
+- Palmater, Pamela. Beyond Blood: Rethinking Indigenous Identity.
+  Saskatoon: Purlich Publishing Limited, 2011. Chapter 1
+
+## Week 3 -- Decolonializing Political Behavior 
+
+Shilliam, Robbie. Decolonizing Politics: An Introduction. John Wiley &
+Sons, 2021. ch 3 - Political Behavior.
+
+Discussion topic: recognizing bias
+
+Additional Readings:
+
+- Required: Charney, Evan, and William English. 2013. "Genopolitics and
+  the Science of Genetics." American Political Science Review 107 (2):
+  382--395.
+
+- Frantz Fanon. 1970. "The 'North African Syndrome.'" In Toward the
+  African Revolution, 13--26. London: Penguin.
+
+- Frantz Fanon. 2018b. "Social Therapy in a Ward of Muslim Men:
+  Methodologial Difficulties." In Alienation and Freedom, eds. Jean
+  Khalfa and Robert J. C. Young, 353--372. London: Bloomsbury Academic
+  Press.
+
+- Frantz Fanon. 2018a. "Letter to the Resident Minister." In Alienation
+  and Freedom, eds. Jean Khalfa and Robert J. C. Young, 433--436.
+  London: Bloomsbury Academic Press.
+
+## Week 4 -- The basis of comparison in politics
+
+Shilliam, Robbie. Decolonizing Politics: An Introduction. John Wiley &
+Sons, 2021. Ch 4 - comparative politics.
+
+Discussion topic: defining development
+
+Additional readings:
+
+- Required: Engerman, David C. 2010. "Social Science in the Cold War."
+  Isis 101 (2)
+
+- Required: Campbell, Horace. "The Impact of Walter Rodney and
+  Progressive Scholars on the Dar Es Salaam School." Social and Economic
+  Studies 40, no. 2 (1991): 99--135.
+
+- Weber, Heloise. 2007. "A Political Analysis of the Formal Comparative
+  Method: Historicizing the Globalization and Development Debate."
+  Globalizations 4 (4): 559--572.
+
+- Shils, Edward. 1960. "Political Development in the New States."
+  Comparative Studies in Society and History 2 (3)
+
+- Pye, Lucian W. 1958. "The Non-Western Political Process." Journal of
+  Politics 20 (3): 468--486.
+
+- Pye, Lucian. 1965. "The Concept of Political Development." The ANNALS
+  of the American
+
+> Academy of Political and Social Science 358 (1)
+
+- Rodney, Walter. 1968. "Education and Tanzanian Socialism." In
+  Tanzania: Revolution by Education, ed. Idrian N. Resnick, 71--84.
+  Arusha: Longmans of Tanzania Ltd.
+
+- Rodney, Walter. 1989. How Europe Underdeveloped Africa. Nairobi:
+  Heinemann Kenya. Ch 1, 6.
+
+## Week 5 -- Decolonizing IR
+
+Shilliam, Robbie. Decolonizing Politics: An Introduction. John Wiley &
+Sons, 2021. Ch 5 International Relations.
+
+Discussion topic: Race and the syllabus
+
+Additional readings:
+
+- Required: Sabaratnam, Meera. \"Is IR theory white? Racialised
+  subject-positioning in three canonical texts.\" Millennium 49.1
+  (2020): 3-31.
+
+- Required: Jacobs, Robert. 2013. "Nuclear Conquistadors: Military
+  Colonialism in Nuclear Test Site Selection during the Cold War." Asian
+  Journal of Peacebuilding 1 (2)
+
+- Bousfield, Dan, Heather L. Johnson, and Jean Michel Montsion.
+  \"Racialized Hearts and Minds: Emotional Labor and Affective
+  Leadership in the Teaching/Learning of IR.\" International Studies
+  Perspectives 20.2 (2019): 170-187.
+
+- Hall, Ian. 2014. "Martin Wight, Western Values, and the Whig Tradition
+  of International Thought." The International History Review 36 (5):
+  961--981.
+
+- Hodson, H. V. 1950. "Race Relations in the Commonwealth."
+  International Affairs 26 (3): 305-315.
+
+- Martin Wight. 1966. "Western Values in International Relations." In
+  Diplomatic Investigations, eds. E. H. Butterfield and M. Wight,
+  89--131. London: Allen & Unwin.
+
+- Martin Wight. 1972. "International Legitimacy." International
+  Relations 4 (1): 1--28.
+
+- Hilda Halkyard-Harawira & Katie Boanas, \"Pacific Connections: Women
+  and the Peace
+
+Movement in Aotearoa\", in R. Du Plessis & P. Bunkle (eds.), Feminist
+voices : women\'s studies texts for Aotearoa/New Zealand (Auckland:
+Oxford University Press, 1992)
+
+- Naidu, Vijay. 1986. "The Fiji Anti-Nuclear Movement: Problems and
+  Prospects." presented at the United Nations University Conference,
+  Auckland.
+
+- Teaiwa, Teresia K. 1994. "Bikinis and Other s/Pacific n/Oceans." The
+  Contemporary Pacific 6 (1): 87--109.
+
+- Anzaldúa, Gloria. Borderlands / La Frontera: The New Mestiza. San
+  Francisco: aunt lute books, 1987.
+
+## Week 6 -- Settler Colonialism 
+
+McGlinehey, Stephen (ed.) 2017. International Relations (Bristol:
+E-International relations publishing)
+
+Ch 10 global poverty and wealth
+
+Discussion topic: Food systems
+
+- Required: Veracini, Lorenzo. Settler colonialism. Palgrave
+  Macmillan, 2010. Into and Ch 1.
+
+- Required: Coulthard, G. Red skin, White masks. Rejecting the colonial
+  politics of recognition. Minneapolis: University of Minnesota Press,
+  2014.
+
+- Bousfield, Dan. \"Settler colonialism in vegetal worlds: exploring
+  progress and resilience at the margins of the Anthropocene.\" Settler
+  Colonial Studies 10.1 (2020): 15-33.
+
+- Simpson, Audra. Mohawk interruptus: Political life across the borders
+  of settler states. Duke University Press, 2014.
+
+- Rifkin, Mark. Settler common sense: queerness and everyday colonialism
+  in the American renaissance. 2014.
+
+- Hill, Susan M. The clay we are made of: Haudenosaunee land tenure on
+  the Grand River. Vol. 20. Univ. of Manitoba Press, 2017.
+
+- Irlbacher-Fox, Stephanie. Finding Dahshaa: Self-government, social
+  suffering, and Aboriginal policy in Canada. UBC Press, 2010.
+
+- Miller, James Rodger. Shingwauk\'s vision: A history of Native
+  residential schools. University of Toronto Press, 1996.
+
+- Joseph, Bob. 21 Things You May Not Know About the Indian Act: Helping
+  Canadians Make Reconciliation with Indigenous Peoples a Reality. Port
+  Coquitlam: Indigenous Relations Press, 2018.
+
+## Week 7 -- Affect and Humanitarianism as Intervention
+
+McGlinehey, Stephen (ed.) 2017. International Relations (Bristol:
+E-International relations publishing)
+
+Ch 11 protecting people
+
+Discussion topic: R2P
+
+- Required: Mostafanezhad, Mary. \"The geography of compassion in
+  volunteer tourism.\" Tourism Geographies 15.2 (2013): 318-337.
+
+- Required: Sabaratnam, Meera. Decolonising intervention: International
+  statebuilding in Mozambique. Rowman & Littlefield, 2017.
+
+- Mills, Charles W. Black rights/white wrongs: The critique of racial
+  liberalism. Oxford University Press, 2017. Intro, ch 1.
+
+- Mostafanezhad, Mary. \"'Getting in Touch with your Inner Angelina':
+  celebrity humanitarianism and the cultural politics of gendered
+  generosity in volunteer tourism.\" Third world quarterly 34.3 (2013):
+  485-499.
+
+- Kapoor, Ilan. Celebrity humanitarianism: The ideology of global
+  charity. Routledge, 2012. Intro, Ch 1.
+
+- Kapoor, Ilan, and Zahi Zalloua. *Universal Politics*. Oxford
+  University Press, 2021. Intro, Ch 1.
+
+- Sabaratnam, Meera. \"On Situatedness, Knowledges and Absences: A
+  Response to the Symposium on Decolonising Intervention.\" The Disorder
+  Of Things (2018).
+
+## Week 8 -- Gender, Race and Intersectionality
+
+McGlinehey, Stephen (ed.) 2017. International Relations (Bristol:
+E-International relations publishing)
+
+Ch 12 connectivity, communications and technology
+
+Discussion topic: #metoo
+
+- Required: Sabaratnam, Meera. \"In the ruins of canonicity: women and
+  their practices of thought.\" International Politics Reviews 9 (2021):
+  246-250.
+
+- Required: Lugones, María. \"Toward a decolonial feminism.\" Hypatia
+  25.4 (2010): 742-759.
+
+- Scauso, Marcos S. Intersectional Decoloniality: Reimagining
+  International Relations and the Problem of Difference.
+  Routledge, 2020. Intro, Ch 1.
+
+- Weheliye, Alexander G. Habeas viscus: Racializing assemblages,
+  biopolitics, and black feminist theories of the human. Duke University
+  Press, 2014. Intro, Ch 1.
+
+- Patil, Vrushali. Webbed Connectivities: The Imperial Sociology of Sex,
+  Gender, and Sexuality. U of Minnesota Press, 2022.
+
+- Angathangelou, Anna M., Anna M. Agathangelou, and L. H. M. Ling.
+  \"Desire industries: Sex trafficking, UN peacekeeping, and the
+  neo-liberal world order.\" The Brown Journal of World Affairs 10.1
+  (2003): 133-148.
+
+## Week 9 -- Decolonial, settler and anti-black racism activism -- ONLINE WEEK DO NOT COME TO CLASS
+
+McGlinehey, Stephen (ed.) 2017. International Relations (Bristol:
+E-International relations publishing)
+
+Ch 13 voices of the people
+
+Discussion topics: #landback #blm #mmiwg
+
+- Required: Collective, Combahee River. \"The Combahee river collective
+  statement.\" Home girls: A Black feminist anthology 1 (1983): 264-274.
+
+- Required: Ficklin, Erica, et al. \"Fighting for our sisters: Community
+  advocacy and action for missing and murdered Indigenous women and
+  girls.\" Journal of Social Issues 78.1 (2022): 53-78.
+
+- Mullings, Delores V., Anthony Morgan, and Heather Kere Quelleng.
+  \"Canada the great white north where anti-black racism thrives:
+  Kicking down the doors and exposing the realities.\" Phylon (1960-)
+  53.1 (2016): 20-41.
+
+- Moeke-Pickering, T., Rowat, J., Cote-Meek, S., & Pegoraro, A.
+  (2021). 7. Indigenous Social Activism Using Twitter: Amplifying Voices
+  Using# MMIWG. In Indigenous Peoples Rise Up (pp. 112-124). Rutgers
+  University Press.
+
+- Taylor, Keeanga-Yamahtta. From# BlackLivesMatter to black liberation.
+  Haymarket Books, 2016. Ch 7.
+
+- Smith, Rogers M., and Desmond King. \"Racial reparations against white
+  protectionism: America\'s new racial politics.\" Journal of Race,
+  Ethnicity, and Politics 6.1 (2021): 82-96.
+
+- Kidd, Dorothy. \"North American Extra-Activism and Indigenous
+  Communications Practices.\" Mediaciones 16.25 (2020): 222-245.
+
+- Kromidas, Maria. \""Agent of Revolutionary Thought": Bambara and Black
+  Girlhood for a Poetics of Being and Becoming Human.\" Jeunesse: Young
+  People, Texts, Cultures 11.1 (2019): 19-37.
+
+- Trisos, Christopher H., Jess Auerbach, and Madhusudan Katti.
+  \"Decoloniality and anti-oppressive practices for a more ethical
+  ecology.\" Nature Ecology & Evolution 5.9 (2021): 1205-1212.
+
+- Ahmed, Sara. *Complaint!*. Duke University Press, 2021.
+
+## Week 10 -- Terrorist Assemblages
+
+McGlinehey, Stephen (ed.) 2017. International Relations (Bristol:
+E-International relations publishing)
+
+Ch 14 transnational terrorism
+
+Discussion topic: critical terrorism studies
+
+- Required: Puar, Jasbir K. Terrorist assemblages: Homonationalism in
+  queer times. Duke University Press, 2018. Intro, Ch 1.
+
+- Required: Rahman, Momin. \"Queer rights and the triangulation of
+  Western exceptionalism.\" Journal of Human Rights 13.3 (2014):
+  274-289.
+
+- Erlenbusch-Anderson, Verena. \"Historicizing white supremacist
+  terrorism with Ida B. Wells.\" Political Theory 50.2 (2022): 275-304.
+
+- Telford, Andrew. \"A climate terrorism assemblage? Exploring the
+  politics of climate change-terrorism-radicalisation relations.\"
+  Political Geography 79 (2020): 102150.
+
+- Amoore, Louise. Cloud ethics: Algorithms and the attributes of
+  ourselves and others. Duke University Press, 2020.
+
+- Chen, Mel Y. Animacies: Biopolitics, racial mattering, and queer
+  affect. Duke University Press, 2012.
+
+- Crawford, Kate. The atlas of AI: Power, politics, and the planetary
+  costs of artificial intelligence. Yale University Press, 2021.
+
+- Blout, Emily, and Patrick Burkart. \"White Supremacist Terrorism in
+  Charlottesville: Reconstructing 'Unite the Right'.\" Studies in
+  Conflict & Terrorism (2020): 1-22.
+
+## Week 11- Challenging Eurocentrism
+
+McGlinehey, Stephen (ed.) 2017. International Relations (Bristol:
+E-International relations publishing)
+
+Ch 17 managing global security beyond \'pax americana\'
+
+Discussion topic: small states
+
+- Required: Hobson, John M. The Eurocentric conception of world
+  politics: Western international theory, 1760-2010. Cambridge
+  University Press, 2012. Intor, Ch 1.
+
+> Required: Hobson, John M., and Alina Sajed. \"Navigating beyond the
+> Eurofetishist frontier of critical IR theory: Exploring the complex
+> landscapes of non-Western agency.\" International Studies Review 19.4
+> (2017): 547-572.
+
+- Getachew, Adom. \"Worldmaking after empire.\" Worldmaking after
+  Empire. Princeton University Press, 2019.
+
+- Alejandro, Audrey. Western dominance in international relations?: The
+  internationalisation of IR in Brazil and India. Routledge, 2018.
+  Intro, Ch 1.
+
+- Hobson, John M. Multicultural Origins of the Global Economy\': Beyond
+  the Western-Centric Frontier. Cambridge University Press, 2020.
+
+- Ling, Lily HM. The Dao of world politics: towards a post-Westphalian,
+  worldist international relations. Routledge, 2013.
+
+- Ling, L. H. M. \"Said\'s exile: strategic insights for postcolonial
+  feminists.\" Millennium 36.1 (2007): 135-145.
+
+- King, Tiffany Lethabo. The Black shoals: Offshore formations of Black
+  and Native studies. Duke University Press, 2019. Into, Ch1.
+
+- Epp, Roger. "We Are All Treaty People: History, Reconciliation, and
+  the Settler Problem," in We Are All Treaty People" Prairie Essays, by
+  Roger Epp, 2008. (121-141)
+
+## Week 12 -- Queer challengers 
+
+McGlinehey, Stephen (ed.) 2017. International Relations (Bristol:
+E-International relations publishing)
+
+Ch 18 crossings and candles
+
+Discussion topic: queer development
+
+- Required: Rahman, Momin. \"Queer as intersectionality: Theorizing gay
+  Muslim identities.\" Sociology 44.5 (2010): 944-961.
+
+- Required: Greensmith, Cameron, and Sulaimon Giwa. \"Challenging
+  settler colonialism in contemporary queer politics: Settler
+  homonationalism, Pride Toronto, and two-spirit subjectivities.\"
+  American Indian Culture and Research Journal 37.2 (2013): 129-148.
+
+- Morgensen, Scott Lauria. Spaces between us: Queer settler colonialism
+  and indigenous decolonization. U of Minnesota Press, 2011.
+
+- Rosenberg, Rae. \"Psychic geographies of queer multiculturalism:
+  Reading Fanon, settler colonialism and race in queer space.\"
+  Environment and Planning D: Society and Space 39.6 (2021): 1129-1146.
+
+- Chen, Mel Y. Animacies: Biopolitics, racial mattering, and queer
+  affect. Duke University Press, 2012.
+
+- March, Loren. \"Queer and trans\* geographies of liminality: A
+  literature review.\" Progress in Human Geography 45.3 (2021): 455-471.
+
+- Halberstam, Jack. \"The queer art of failure.\" The queer art of
+  failure. Duke University Press, 2011. Intro, Ch1.
+
+**APPENDIX TO UNDERGRADUATE COURSE OUTLINES**
+
+**DEPARTMENT OF POLITICAL SCIENCE**
+
+**Prerequisite checking - the student's responsibility**
+
+\"Unless you have either the requisites for this course or written
+special permission from your Dean to enroll in it, you may be removed
+from this course and it will be deleted from your record. This decision
+may not be appealed. You will receive no adjustment to your fees in the
+event that you are dropped from a course for failing to have the
+necessary prerequisites.\"
+
+**Essay course requirements**
+
+With the exception of 1000-level courses, most courses in the Department
+of Political Science are essay courses. Total written assignments
+(excluding examinations) will be at least 3,000 words in Politics 1020E,
+at least 5,000 words in a full course numbered 2000 or above, and at
+least 2,500 words in a half course numbered 2000 or above.
+
+**Use of Personal Response Systems ("Clickers")**
+
+\"Personal Response Systems (\"clickers\") may be used in some classes.
+If clickers are to be used in a class, it is the responsibility of the
+student to ensure that the device is activated and functional. Students
+must see their instructor if they have any concerns about whether the
+clicker is malfunctioning.
+
+Students must use only their own clicker. If clicker records are used to
+compute a portion of the course grade:
+
+- the use of somebody else's clicker in class constitutes a scholastic
+  offence,
+
+- the possession of a clicker belonging to another student will be
+  interpreted as an attempt to commit a scholastic offence.\"
+
+**Security and Confidentiality of Student Work** (refer to current
+Western Academic Calendar
+
+(http://www.westerncalendar.uwo.ca/)
+
+\"Submitting or Returning Student Assignments, Tests and Exams - All
+student assignments, tests and exams will be handled in a secure and
+confidential manner. Particularly in this respect, leaving student work
+unattended in public areas for pickup is not permitted.\"
+
+**Duplication of work**
+
+Undergraduate students who submit similar assignments on closely related
+topics in two different courses must obtain the consent of both
+instructors prior to the submission of the assignment. If prior approval
+is not obtained, each instructor reserves the right not to accept the
+assignment.
+
+**Grade adjustments**
+
+In order to ensure that comparable standards are applied in political
+science courses, the Department may require instructors to adjust final
+marks to conform to Departmental guidelines.
+
+**Academic Offences**
+
+\"Scholastic offences are taken seriously and students are directed to
+read the appropriate policy, specifically, the definition of what
+constitutes a Scholastic Offence, at the following Web site:
+
+http://www.uwo.ca/univsec/handbook/appeals/scholoff.pdf .\"
+
+**Submission of Course Requirements**
+
+ESSAYS, ASSIGNMENTS, TAKE-HOME EXAMS MUST BE SUBMITTED ACCORDING TO
+PROCEDURES SPECIFIED BY YOUR INSTRUCTOR (I.E., IN CLASS, DURING OFFICE
+HOURS, TA\'S OFFICE HOURS) OR UNDER THE INSTRUCTOR\'S OFFICE DOOR.
+
+**THE MAIN OFFICE DOES NOT DATE-STAMP OR ACCEPT ANY OF THE ABOVE.**
+
+Note: Information excerpted and quoted above are Senate regulations from
+the Handbook of Scholarship and Academic Policy.
+http://www.uwo.ca/univsec/handbook/
+
+Students registered in Social Science should refer to
+http://counselling.ssc.uwo.ca/
+http://counselling.ssc.uwo.ca/procedures/havingproblems.asp for
+information on Medical Policy, Term Tests, Final Examinations, Late
+Assignments, Short Absences, Extended Absences, Documentation and other
+Academic Concerns. Non-Social Science students should refer to their
+home faculty's academic counselling office.
+
+**Plagiarism**
+
+\"Plagiarism: Students must write their essays and assignments in their
+own words. Whenever students take an idea, or a passage from another
+author, they must acknowledge their debt both by using quotation marks
+where appropriate and by proper referencing such as footnotes or
+citations. Plagiarism is a major academic offence.\" (see Scholastic
+Offence Policy in the Western Academic Calendar).
+
+**Plagiarism Checking:** \"All required papers may be subject to
+submission for textual similarity review to the commercial plagiarism
+detection software under license to the University for the detection of
+plagiarism. All papers submitted for such checking will be included as
+source documents in the reference database for the purpose of detecting
+plagiarism of papers subsequently submitted to the system. Use of the
+service is subject to the licensing agreement, currently between The
+University of Western Ontario and Turnitin.com ( http://www.turnitin.com
+).\"
+
+**Multiple-choice tests/exams:** \"Computer-marked multiple-choice tests
+and/or exams may be subject to submission for similarity review by
+software that will check for unusual coincidences in answer patterns
+that may indicate cheating.\"
+
+Note: Information excerpted and quoted above are Senate regulations from
+the Handbook of Scholarship and Academic Policy.
+http://www.uwo.ca/univsec/handbook/
+
+**PLAGIARISM\***
+
+In writing scholarly papers, you must keep firmly in mind the need to
+avoid plagiarism. Plagiarism is the unacknowledged borrowing of another
+writer\'s words or ideas. Different forms of writing require different
+types of acknowledgement. The following rules pertain to the
+acknowledgements necessary in academic papers.
+
+**A. In using another writer\'s words, you must both place the words in
+quotation marks and acknowledge that the words are those of another
+writer.**
+
+You are plagiarizing if you use a sequence of words, a sentence or a
+paragraph taken from other writers without acknowledging them to be
+theirs. Acknowledgement is indicated either by (1) mentioning the author
+and work from which the words are borrowed in the text of your paper; or
+by (2) placing a footnote number at the end of the quotation in your
+text, and including a correspondingly numbered footnote at the bottom of
+the page (or in a separate reference section at the end of your essay).
+This footnote should indicate author, title of the work, place and date
+of publication, and page number.
+
+Method (2) given above is usually preferable for academic essays because
+it provides the reader with more information about your sources and
+leaves your text uncluttered with parenthetical and tangential
+references. In either case words taken from another author must be
+enclosed in quotation marks or set off from your text by single spacing
+and indentation in such a way that they cannot be mistaken for your own
+words. Note that you cannot avoid indicating quotation simply by
+changing a word or phrase in a sentence or paragraph which is not your
+own.
+
+**B. In adopting other writers\' ideas, you must acknowledge that they
+are theirs.**
+
+You are plagiarizing if you adopt, summarize, or paraphrase other
+writers\' trains of argument, ideas or sequences of ideas without
+acknowledging their authorship according to the method of
+acknowledgement given in \'A\' above. Since the words are your own, they
+need not be enclosed in quotation marks. Be certain, however, that the
+words you use are entirely your own; where you must use words or phrases
+from your source, these should be enclosed in quotation marks, as in
+\'A\' above.
+
+Clearly, it is possible for you to formulate arguments or ideas
+independently of another writer who has expounded the same ideas, and
+whom you have not read. Where you got your ideas is the important
+consideration here. Do not be afraid to present an argument or idea
+without acknowledgement to another writer, if you have arrived at it
+entirely independently. Acknowledge it if you have derived it from a
+source outside your own thinking on the subject.
+
+In short, use of acknowledgements and, when necessary, quotation marks
+is necessary to distinguish clearly between what is yours and what is
+not. Since the rules have been explained to you, if you fail to make
+this distinction your instructor very likely will do so for you, and
+they will be forced to regard your omission as intentional literary
+theft. Plagiarism is a serious offence which may result in a student\'s
+receiving an \'F\' in a course or, in extreme cases in their suspension
+from the University.
+
+\*Reprinted by permission of the Department of History
+
+Adopted by the council of the Faculty of Social Science, October, 1970;
+approved by the Dept. of History August 13, 1991
+
+**Accessibility at Western:** Please contact poliscie@uwo.ca if you
 require any information in plain text format, or if any other
 accommodation can make the course material and/or physical space
 accessible to you.
 
 **Mental Health at Western:** If you or someone you know is experiencing
 distress, there are several resources here at Western to assist you.
-Please visit <http://www.uwo.ca/uwocom/mentalhealth/> for more
-information on these resources and on mental health.
+Please visit http://www.uwo.ca/uwocom/mentalhealth/ for more information
+on these resources and on mental health.
 
 Other relevant links:
 
@@ -1047,522 +1956,6 @@ Appeals](https://uwo.ca/univsec/pdf/academic_policies/appeals/SRBA_appeals.pdf)
 Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progression_grad/coursenumbering_SEP.pdf)
 
 [^1]: Policy taken from Dr Cheyney with permission.
-    [https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples](https://web.archive.org/web/20210413194856/https:/studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples)
+    <https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples>
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
-
-[^3]: Taken with permission from Dr Torrey Trust
-    https://docs.google.com/document/d/1caSLk2JM40K4tdQHlLRwftYVGM6k8z0ZA2J12SwLhtU/edit?tab=t.0#heading=h.i7bagmx726nl
-
-
-If students have extensive questions about the essay or the EBO they should not use the syllabus bot but instead refer to the EBO and Essay bot as it has more details the link is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596
-
-
-ast Update: Sep 3
-Reminder: You can also use the Course Info Bot
-Do I have to attend each lecture on Tuesdays and tutorial on Thursday each week? 
-Yes. 
-
-What is a Blended Class?
-As our class is designated Blended, the course is organized as follows:
-
-1) Lecture videos will be posted online on the OWL site before lectures, so you should view Lectures videos in advance of lectures so the lecture discussions, debates, activities, etc., will be more helpful and useful, and you are welcome to pull ahead in the readings and lecture videos, and complimentarily, you can catch up on the core materials if you miss a lecture but do attend lectures!
-
-2) In-person attendance in our lecture and tutorial room will follow a ‘flipped class’ model: we will have questions-and-answers, discussions, activities, debates, etc. based on the lecture videos and current events. Importantly: if you are unwell for any reason, please don't come to the lecture hall at all, focus on getting healthy, and you can always watch the lecture videos while you are getting better or after. Note: exams are based on lectures, lecture videos,  and readings
-
-Where is the Course Outline?
-Look in the left hand nav bar in brightspace or access it here http://tiny.cc/1026outline
-
-Where are each Term's Lecture Videos and other Content?
-The Lecture videos will be on the POLS 1026 Course Content section. This will also be where links to posted non-textbook readings will be found. The topics for each week's lecture and the readings for those lectures are stated in the Course Outline. 
-If there is a problem with the video, such as it's disappeared, dragging, etc., let us know. Videos are either on our site or on YouTube (or both) but we appreciate there can be technology issues, so we appreciate feedback on tech problems so we can help your classmates, as well.
-
-Are there Required Readings?
-Yes. The required readings, textbooks, etc., are all in the Course Outline.
-
-Where can I find information about the Mid-Term Test and Final Exam?
-On this OWL site and each one will have it's own information section and pages.
-
-Are all Mid-Term Test and Final Exam multiple choice?
-Yes.
-
-Is the Mid-Term Test online?
-Yes.
-
-Do I have to download ProctorTrack, Proctorio, ProctorEdu, QuestionMark, etc., for the Mid-Term Test?
-No. We are not using any proctoring software which will cause computer issues, but also we don't have any way to monitor, etc., so we cannot and do not provide any rectification for computer issues,
-When in the Mid-Term Test?
-Check the Course Outline and the Mid-Term Info page.
-
-When is the Mid-Term Make-up Test?
-Check the Course Outline and the Mid-Term Info page.
-
-Is the Final Exam in-person?
-Yes.
-
-When is the Final Exam?
-It will be during the Final Exam time period and a date will be released by the Registrar. Note: we will only know the date when the final exam schedule is released by the Registrar.
-
-When is the Make-up Final Exam?
-In January 2026. Dates will be posted on the OWL site.
-
-Can I write the Mid-Term Test or Final Exam with a -10% Penalty if I have no grounds from Academic Consideration?
-Yes. You don't need to have a reason for missing the Mid-Term or Final Exam, and you simply write the Make-up and -10% will be deducted from your achieved grade, e.g., you got 70% on the Make-up Final Exam, so you'll get 60% (70%-10%) for your Final Exam grade.
-
-What if I have travel plans that conflict with the Mid-Term Test or Final Exam?
-These are not grounds for academic consideration for the Mid-Term Test or the Final Exam.
-
-Where can I find information about the Essay assignment?
-The Essay information will be posted on  page on the Course Home page and in the Left Menu on the Content page
-
-When are grades released for assignments?
-When they are ready and available, we will let you know. See and keep checking th Announcements page to look for updates.
-Don't keep emailing us to ask when, or if you alone could have your grade before everyone else as that would be grossly unfair to your classmates.
-
-What is Zoom and why and how do I use it?
-We are using Zoom for some of our Office Hours and meetings. "Zoom is a cloud-based solution for video and audio conferencing, collaboration, and online meetings. Your Western Identity is used as your login credentials for Zoom." (Western Technology Services).
-Look through UWO's WTS website, which gives instructions about how to install and use Zoom, and other useful tips as well.
-How do I reach Zoom technical support?
-If you are having trouble, whether on campus or at home, calling the Helpdesk at 519-661-3800 ext. 83800 will put you in touch with an agent who will gladly help you. For more information, visit the Helpdesk Website.
-
-What are the best approaches to doing the Readings?
-1. Read the Reading: no notes, etc., JUST get the 'big picture' and the major points of the Reading, etc. — read briskly & keep moving, so you follow the main narrative and points.
-
-2. Watch the Lecture videos to figure out what was important in/emphasized from the Readings.
-
-3. Go back and review the Readings only for what you don't understand, what needs more details/explanations.
-
-These strategies will help you:
-
-— Make more efficient use of your studying time.
-
-— Read with better comprehension.
-
-— Remember what you’ve read.
-
-Another great resource is Active Reading Strategies by Dr. Mike Atkinson, Prof of Psychology:
-
-ACTIVE READING STRATEGIES
-
-The strategies recommended for efficient learning of text material can be divided into three types: Pre-reading, Reading for comprehension, Post-reading.
-
-PRE-READING: LEARN THE HEADINGS AND SUBHEADINGS
-
-— Instead of diving immediately into reading the chapter, spend a few minutes learning the headings and subheadings.
-
-— They tell you the important ideas that will be covered in the chapter.
-
-— In the text they are laid out for you on the first few pages of the book in the table of contents.
-
-— Look at these headings and subheadings, think how they have been ordered, try reciting them from memory, and then write them out on a separate sheet of paper.
-
-READING FOR COMPREHENSION: READ A FEW PAGES AND THEN SUMMARIZE
-
-— Don't try to read most of the chapter in one sitting. It is much easier to learn the material in small chunks.
-
-— Read a few pages carefully and THEN make a summary of the important points. Continue doing this until you have summarized about 10 pages — then take a break.
-
-— You can summarize by highlighting sparingly AND making marginal notes, or by making separate written notes.
-
-— Note that much of the information in psychology comes in the form of arguments.
-
-— Here are some the important kinds of information that are crucial to knowing and understanding an argument: i) definitions of new terms, ii) essential explanations of the specific argument, iii) examples, iv) results of studies.
-
-— If you make separate summary notes, try using point form and keywords.
-
-— This has two advantages: the notes are made more quickly, and they are easier to read.
-
-— As you record key terms and definitions, ALWAYS relate them to the arguments of which they are a part.
-
-POST-READING: TEST YOURSELF
-
-— After actively reading 10 or more pages in the manner described above, try reciting (i.e., recalling from memory) all the important points under each heading and subheading that you have studied.
-
-— This will reinforce the ideas you know and identify those that you need to review.
-
-— Reviewing any study guide questions and relevant old exam questions after you have finished the entire chapter can also be very helpful.
-
-# **Academic Consideration, Learning Support, International Student Support**
-
-**For Academic Consideration, you should go to the Registrar\'s Academic
-Consideration page here:**
-
-[**https://registrar.uwo.ca/academics/academic_considerations/index.html**](https://registrar.uwo.ca/academics/academic_considerations/index.html)
-
-Please go through the above link for:
-
-- Exam or Test conflicts
-
-- Extenuating significant documented academic consideration
-
-NOTE \> *as extensively and explicitly detailed in the Course Outline:*
-the \'Undocumented absence\' process cannot be used for the Term Test,
-Essay, and Term Exam (see Course Outline for details)
-
-**Who do I contact for Accessible Education (AE) Accommodation?**
-
-- If you have approved Accessible Education Accommodation, this will be
-  submitted to us via the University system
-
-- We will post your Accessible Accomodations information relating to
-  your assignment, exam, etc., on a specific OWL page and send an
-  Announcement to let you know
-
-  - It can take 2 weeks sometimes for Counsellors to post your AE
-    direction and information, so:
-
-    - Make sure you have submitted all your documentation to the AE
-      office and spoken to your AE Counsellor
-
-    - If you have been delayed, just keep checking back on the
-      AE-related pages for the particular assignment, etc.
-
-- However, if you are concerned, do send an email to Nig
-
-- If you have had previous Accessibile Education accommodation or are
-  now looking to pursue Accessibile Education accommodation, you should
-  talk to the folks at the [Accessibility Office:
-  https://accessibility.uwo.ca/students/index.html](https://accessibility.uwo.ca/students/index.html).
-
-[**OWL
-Accessibility**](https://owlhelp.uwo.ca/about/accessibility/index.html)
-
-Web accessibility refers to how easily people with disabilities can
-navigate and interact with websites. Disabilities may be physical (such
-as blindness, low vision, deafness, or fine motor skills difficulty), or
-cognitive (such as dyslexia or attention deficit disorder). People with
-disabilities often use assistive technologies to help them navigate the
-web. An assistive technology is any device that helps a person with a
-disability. Common web assistive technologies include modified mice and
-keyboards, screen readers and screen magnifiers. Web accessibility
-occurs when websites support web accessibility standards, are compatible
-with assistive technologies, and are easy for people to navigate and
-understand.
-
-Every attempt has been made to make this course accessible to you.
-Please contact Nig Narain <nnarain@uwo.ca> if you\'re experiencing any
-issues regarding the accessibility of the course
-
-**How do I get Accommodation for Mental Health Reasons?**
-
-See Student Health Services right away:\
-<https://www.uwo.ca/health//psych/index.html>
-
-**How do I get Sports, Religious, or Medical academic consideration?**
-
-See the Registar\'s Academic Consideration page:
-<https://registrar.uwo.ca/academics/academic_considerations/index.html>
-
-### **Where do I get Help for Learning?**
-
-Connect with the L[earning Development & Success
-Counsellors](https://www.uwo.ca/sdc/learning/) who are
-[specialists]{.underline} who want to help you!
-
-\"The Learning Development & Success team has created [a number of video
-presentations to help Western
-students](https://www.uwo.ca/sdc/learning/presentations/index.html) gain
-knowledge and build confidence in their learning and academic skills.
-From time management to studying for exams, we have a variety of
-presentations to help you thrive academically\":
-<https://www.uwo.ca/sdc/learning/presentations/index.html>
-
-Here is a list of their Videos:
-
-- Undergraduate Student Presentations
-
-- Creating Effective Learning Habits
-
-- Successful Time Management
-
-- Academic Success for International Undergraduate Students
-
-- Student-Athlete Time Management
-
-- Preparing and Studying for Exams
-
-- Preparing for Online Exams
-
-- Optimize Lecture Learning
-
-- Writing Multiple Choice Tests
-
-- Managing Test Anxiety
-
-- Essay Exams Essentials
-
-- Learning From Textbooks
-
-- Enhancing Your Note-taking Skills
-
-- Maximize Your Memory
-
-- Study Skills for Medical and Dental Students
-
-### **Where do I get International Student Support?**
-
-Please visit the [International and Exchange Student
-Center](https://www.uwo.ca/international/iesc/)
-
-It highly recommended you join the [International Peer Guide
-Program](https://www.uwo.ca/international/iesc/programs/peer_guide_program.html)
-which \" matches new international students with friendly upper-year
-Western students called Peer Guides. Peer Guides are peer mentors who
-will connect new students to the Western community, answer questions and
-provide support throughout the program. Peer Guides are upper-year
-(undergraduate and graduate) students who have already experienced the
-transition to University life. Peer Guides help international students
-get settled and adjusted by: acting as your guide and cultural
-interpreter as you transition into your new life at Western; connecting
-you to Western and London online activities, services and resources;
-planning and hosting online events and activities so that you can meet
-other Peer Guides and international students; emailing or messaging you
-weekly until the end of the term to check-in and get to know you, see if
-you have any questions, inform you of upcoming events, and arrange to
-meet with you virtually.\"
-
-Necessary conditions for passing this course
-Necessary conditions for passing this course or receiving your earned grade: you must write the Exam; (not necessarily passing it, and submit the Essay for the course (not necessarily earn a passing grade on the Essay, but your Essay must be assessed as minimally acceptable effort to complete a proper essay). If you do not meet the aforementioned three conditions, then you will receive a failing grade (not your earned grade based on completed assignments) for the course and not receive credit for this course. Contact the course instructor if you have any questions.
-
-Question: how do I get the bot to summarize the lecture?
-Answer: there's too much data to upload all at once into the bot, you can do it yourself by taking the PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it in any chat bot with the prompt 'use this file to develop 10 multiple choice questions with four options'. 
-
-This chatbot does not have access to the course content, it only has access to the syllabus, and the information provided by the professor. Students need to review the content themselves. Any answers about course content provided by the bot are not from our course content, they are from the general information available to chat GPT.
-
-Question: Are office hours only online or is in-person available as well?
-Answer: Dan is in Toronto, so office hours are on Zoom. Nig can meet in person.
-
-Question: Are textbooks mandatory?
-Answer: Yes, the textbooks are required.
-
-Question: Can we record the lectures?
-Answer: There’s not a lot of value in recording the lectures because we’ve pre-recorded the videos. I do record the audio from class.
-
-Question: Do we get advisory when writing our final essay?
-Answer: I’m not entirely sure what this means.
-
-Question: Does one professor write the exam or do both write it together? If the answer is the former, which professor writes the exam?
-Answer: We are responsible for our own exams. Dan writes all of the questions for 1026.
-
-Question: How can I apply political science to business?
-Answer: There are many ways to apply it; there is always a policy and regulatory environment both within and outside of business.
-
-Question: How can I excel in this class?
-Answer: Make sure to review all of the course pages and the FAQs.
-
-Question: How long does it take for an email response from you?
-Answer: Depends on how busy I am. Dan tries to get back to everybody within 24 hours.
-
-Question: How many essays are there in total?
-Answer: There is only one essay in POLS 1026.
-
-Question: How relevant is political science in terms of the law field? Would my knowledge of the law world be ahead of a psychology student who’s also looking to apply for law school?
-Answer: The bulk of reference letters that Dan writes are for law school. Analytical framework and argumentation are very relevant to law school.
-
-Question: How will I be able to contribute?
-Answer: Make sure to come to all of the lectures and tutorial hours. There will be lots of in-class discussion.
-
-Question: I have a class directly before this one completely across campus. Would it be an issue if I was a few minutes late to this class on Thursdays, or do you recommend I switch this class?
-Answer: It’s okay to be a few minutes late. We always start 10 minutes after the official start time and end 10 minutes early.
-
-Question: If we are unable to come to Thursday’s class due to illness, are we still able to get the attendance bonus?
-Answer: You only need 8 of 12 attendance bonuses, precisely to allow for flexibility.
-
-Question: Just wanted to know how the lecture structure is.
-Answer: Lectures are based on the textbook chapter, along with TikToks, discussion prompts, and open-ended questions.
-
-Question: What is AI literacy?
-Answer: Developing understanding about the use and practices of generative AI. For further discussion, see this open educational resource: https://ecampusontario.pressbooks.pub/aihighereducation/part/domain-of-ai-awareness-for-education/
-
-Question: What is your best advice to do really well in your class?
-Answer: Different students excel at different things. Check out the FAQ for details.
-
-Question: What other resources can I use beyond the textbook to be successful?
-Answer: Make sure to review the lectures and attend the tutorial hours.
-
-Question: What will the essay topic be about?
-Answer: There is a list of essay topics.
-
-Question: What will we be writing the essay about?
-Answer: There is a list of essay topics.
-
-Question: What’s the best way to take notes?
-Answer: It’s up to individual students. Feel free to ask the bot.
-
-Question: When is our exam?
-Answer: Please review the course outline.
-
-Question: Why are there no TAs?
-Answer: There are not enough graduate students for the size of the course.
-
-Question: Will I be able to stay on top of the week-to-week work?
-Answer: Yes, but the assumption is that you are a mature student, so intrinsic motivation is important.
-
-Question: Will PowerPoints be posted?
-Answer: Yes, they are posted under course content in Brightspace.
-
-Question: Will the slides of the lectures be posted for future review of content?
-Answer: Yes, they are all posted under course content.
-
-Question: Will there be guest speakers in any cases, or opportunities through the class to listen to guest speakers?
-Answer: Unlikely at this point. Normally we have senators and other political figures in some of the other classes, but it’s not likely in this first-year course.
-
-Question: Will Thursday lectures be online?
-Answer: No, they are strictly in person.
-
-Question: Would you recommend having the physical or the e-version of the textbook?
-Answer: Either is acceptable.
-
-You can check your bonus attendance at this link https://bit.ly/1026checkattend 
-
-
-READ NOW > Anti-Requisites & Pre-Requisites
-Anti-Requisites & Pre-Requisites
-The following courses are Anti-Requisites for Political Science 1026F/G:
-Political Science 1020E
-Political Science 1021F/G
-Political Science 1022F/G
-Political Science 1026F/G (that is: you can't take the course twice and count it twice)
-Note the above is not dependent on whether you took those courses at Main/Western, Huron, King's or Brescia campus, and are anti-requisites regardless of which campus you took the course(s)
-Political Science 1026F/G has no pre-requisites.
-Political Science 1025F/G and Political Science 1026F/G are not prerequisites for each other, and can be taken independently of each other and during the same term or many terms apart.
-If you are still unsure about the above contact Academic Counselling immediately:
-Western Social Science Academic Counselling: https://www.advising.ssc.uwo.ca/
-King's Academic Advising : https://www.kings.uwo.ca/about-kings/facts-and-information/administrative-departments/academic-deans-office/
-Huron Academic Advising: https://huronu.ca/student-life/student-services/academic-advising/
-Note: Both Poli Sci 1025F/G and 1020F/G are needed for the following degrees (and check with Counselling for other degrees):
-
-Honours Specialization in Politcal Science
-Major in Politcal Science
-Honours Specialization in Politics, Philosophy and Economics (PPE)
-Honours Specialization in International Relations (IR)
-
-
-To be clear in 2025 we are only offering POLS 1025F/G and POLS 1026/FG as the requirement for political science on Main Campus at the University of Western Ontario. POLS 1021F/G and 1022F/G are offered at affiliate campuses. They are anti-requisites because they are sufficient to continue in the political science program.  POLS 1020E is no longer offered at the University of Western Ontario it has been split into POLS 1025 and POLS 1026.
-
-The green text in the Powerpoints is the instructors commentary and addition to the PowerPoint slides that were provided by the textbook manufacturer. It is the 'value added' of the course.
-
-Q: How many words is our EBO? How many rebuttals and counterarguments do we need?
-A: 1500 words
-
-Q: Is the bonus 5% applied to my overall grade at the end of the course or the grade for my essay? If it is applied to the essay grade, is it applied to the EBO or the actual essay assignment?
-A: It is applied to the essay grade
-
-Q: Will we have a class to teach how to do proper citations?
-A: No, this is something you can review and we have videos on it as well
-
-Q: Are we going to go over what the expectations are for the EBO and what you are looking for?
-A: Not really, you need to guide yourself through the course web pages
-
-Q: How many essays do we have?
-A: One
-
-Q: AI-generated notes?
-A: The link to the notes is here http://tiny.cc/1020lecturesummaries
-
-Q: What is the essay supposed to be about?
-A: There are six pre-assigned topics
-
-Q: Can we find the Thursday tutorial slides on Brightspace?
-A: They will be on the main page of the Brightspace sidebar link "POLS 1026 Course Content" or here https://westernu.brightspace.com/d2l/le/lessons/130641/units/3264732
-
-Q: If we miss a class where you talk about material not in the slides, how should we catch up?
-A: Use the PowerPoints, the YouTube videos and the textbook to catch up
-
-Q: Are we going to cover lobbyists such as AIPAC and their role in foreign affairs?
-A: We do that at the upper your levels in foreign policy analysis
-
-Q: Is all the material we learn on Tuesday the only material we learn for every week?
-A: Yes the testable content is on Tuesday, the tutorial discussion is not testable on Thursday
-
-Q: Will we be looking at international politics?
-A: Yes, that is week 11
-
-Q: Do the quizzes in the textbook effect our grade
-A: all of the weekly and textbook quizzes are practice quizzes and none of them impact the grade
-
-Students can check their attendance at this link https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3450465
-
-Dan's office hours are available at this link https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3353071
-
-Q: How do I get the bot to summarize the week’s lecture?  
-A: In PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it in any of the chat box  
-
-Q: Can we go more over some of the concepts in depth and focus less on the AI components?  
-A: That's what we do on Tuesdays  
-
-Q: What’s the point of AI literacy? Is it examinable?  
-A: No, it's University literacy  
-
-Q: Are we being tested on all this AI stuff?  
-A: Nothing on Thursday is tested  
-
-Q: Should we be taking notes on Thursday even though it’s not content for testing?  
-A: If you want  
-
-Q: If the midterm has "this was not discussed in lecture" options, does that mean only lectures + key terms are testable?  
-A: Yes anything that was discussed in the Powerpoints or the videos  
-
-Q: Should we be looking at the green text in the slideshow?  
-A: Yes that's largely where the questions are coming from  
-
-Q: To go over in class: key terms and learning outcomes of each lecture.  
-A: Each PowerPoint starts with a learning outcome  
-
-Q: Are we expected to segment information week by week, or will questions ask which week something was discussed?  
-A: Yes, because we talk about things in different contexts you have to know what we were talking about in each week  
-
-Q: Is anything in readings (not discussed in lecture) examinable?  
-A: No nothing just in the textbook is examinable it has to be in the Powerpoints or lecture as well  
-
-Q: When you give examples of questions from lectures, does that include lecture videos or just in-person lectures?  
-A: The lecture videos serve as the basis because they are always available  
-
-Q: Can we get an example EBO or rubric?  
-A: It changes every year so we don't have completed ones yet  
-
-Q: What topics should we mainly focus on for the midterm—definitions or broader concepts?  
-A: Broader concepts  
-
-Q: Will there be practice midterms posted?  
-A: Those are the questions I bring to class and the quizzes each week are practice  
-
-Q: Was the practice questions shown in class a realistic layout of the midterm?  
-A: I literally pulled them from the exam Bank  
-
-Q: Will you release an exam review?  
-A: Not really - you have everything it would just be repeating what you already have  
-
-Q: Are the extra slides (not covered in lecture) still testable?  
-A: Yes anything in the videos  
-
-Q: Midterm date: syllabus says 18th, in class you said 19th. Which is correct?  
-A: 19th is correct  
-
-Q: How many “this was not discussed in lecture” questions will be on the midterm?  
-A: I don't know yet  
-
-Q: If we don’t know an answer on the exam, should we just guess?  
-A: Yes there's no penalty for guessing wrong  
-
-Q: where are the Thursday PowerPoints and the audio from Tuesday lectures and Thursday lectures
-A: on the course content page in brightspace here https://westernu.brightspace.com/d2l/le/lessons/130641/units/3264732
-
-Q: When are final exams?  
-A: The registrar sets those dates - we don't have them yet  
-
-Q: Will the answer to a mid term question ever actually be 'this was not discussed in the lecture'
-A: yes, these are distractor questions designed to penalise anyone using a chatbot to try and cheat - there isn't any way for the chatbot to know what wasn't discussed in lecture - you have to be in lecture to know that information
-
-Got it — here’s a cleaner version for your MD file, no blanks, no extra formatting:
-
-Q: Are the online lectures the same as in-person lectures?
-A: The online lectures serve as the basis for the midterm and final exam (in case someone misses a class), so please be sure to review them.
-
-Q: Are the slides you don’t talk about in class testable?
-A: Any slide that appears in the online video is testable, because in case someone misses a class we use the videos as the basis for generating the questions for the midterm and the final.
-
-Q: For the midterm, if a question says “this was not discussed in lecture” but the material was discussed in the textbook, should we still select that option?
-A: No questions on the midterm or the final will come directly from the textbook, so you should never choose “this was not discussed in lecture” if it was in the textbook (which is extremely unlikely anyway).
-
-
